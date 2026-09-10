@@ -1,0 +1,3622 @@
+[
+  {
+    "inbound_tweet_id": 13864,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp nice game ha. first fool the customer then extend the issue until warranty expires and then you are free. cheating enterprises amazon",
+    "created_at": "Wed Nov 01 06:48:01 +0000 2017",
+    "in_response_to_tweet_id": 13863.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 13865,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp you have wasted one month by bullsh****g me. now i am being told itvis out of warranty. issue is reported yo @79087 under warranty.",
+    "created_at": "Wed Nov 01 06:46:39 +0000 2017",
+    "in_response_to_tweet_id": 13863.0,
+    "response_tweet_id": "13867",
+    "agent_reply_id": 13867,
+    "agent_reply_text": "@118918 Sorry for the disappointment. Kindly reply to the email you've received from our team, we'll check and get back. ^KA"
+  },
+  {
+    "inbound_tweet_id": 13868,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp i have already done it. your reps dont even check any back data they just rape the customers.",
+    "created_at": "Wed Nov 01 07:10:44 +0000 2017",
+    "in_response_to_tweet_id": 13867.0,
+    "response_tweet_id": "13869",
+    "agent_reply_id": 13869,
+    "agent_reply_text": "@118918 In this case, request you to wait and you shall receive an reply from our team soon. ^SH"
+  },
+  {
+    "inbound_tweet_id": 13870,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp same reply again and again. if the complaint is raised under warranty period and if @2005 wont solve it, how is it out of warranty?",
+    "created_at": "Thu Nov 02 06:36:41 +0000 2017",
+    "in_response_to_tweet_id": 13869.0,
+    "response_tweet_id": "13871,13872",
+    "agent_reply_id": 13871,
+    "agent_reply_text": "@118918 insight on this issue. 2/2 ^SH"
+  },
+  {
+    "inbound_tweet_id": 13873,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp therevis no resolution. you are asking me to throw it in dumpster. why do you sell stolen products?",
+    "created_at": "Thu Nov 02 07:13:11 +0000 2017",
+    "in_response_to_tweet_id": 13872.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 13866,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp so after wasting more than 1.5 month, now you are telling me the product is out of warranty. i had gone to iball 1.5 months back .",
+    "created_at": "Wed Nov 01 02:19:15 +0000 2017",
+    "in_response_to_tweet_id": 13874.0,
+    "response_tweet_id": "13863",
+    "agent_reply_id": 13863,
+    "agent_reply_text": "@118918 Apologies for the experience, Vijay. Please reply to the email sent by our team. We'll help you with alternatives. ^SV"
+  },
+  {
+    "inbound_tweet_id": 13876,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp done.",
+    "created_at": "Tue Oct 31 09:40:20 +0000 2017",
+    "in_response_to_tweet_id": 13877.0,
+    "response_tweet_id": "13874",
+    "agent_reply_id": 13874,
+    "agent_reply_text": "@118918 Thank you for letting us know, we'll get back to you soon with an update. ^BS"
+  },
+  {
+    "inbound_tweet_id": 13878,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp all emails already shared with earlier tweet. https://t.co/2sVFZ4iG9Q",
+    "created_at": "Tue Oct 31 09:27:52 +0000 2017",
+    "in_response_to_tweet_id": 13879.0,
+    "response_tweet_id": "13877",
+    "agent_reply_id": 13877,
+    "agent_reply_text": "@118918 Kindly share your details in the link given earlier and we'll be sure to help you in getting this issue resolved. ^ZH"
+  },
+  {
+    "inbound_tweet_id": 13880,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp yeah and i will get it after i murder service center owner. I would rather throw this product in dumpster and let wll india know abt u cheat",
+    "created_at": "Tue Oct 31 08:57:19 +0000 2017",
+    "in_response_to_tweet_id": 13881.0,
+    "response_tweet_id": "13879",
+    "agent_reply_id": 13879,
+    "agent_reply_text": "@118918 Kindly share your details here: https://t.co/GIJyeYqKE0 and I'll contact you with an update on this. ^GS"
+  },
+  {
+    "inbound_tweet_id": 13882,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp so basically you are stealing money from small customers. @115851 count your money, its growing. THIEVES.",
+    "created_at": "Tue Oct 31 08:27:19 +0000 2017",
+    "in_response_to_tweet_id": 13883.0,
+    "response_tweet_id": "13881",
+    "agent_reply_id": 13881,
+    "agent_reply_text": "@118918 Apologies for the inconvenience with policy constraint. We'll be able to assist you once service denial letter is received.^GS"
+  },
+  {
+    "inbound_tweet_id": 13884,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp why are you removimg @79087 from your tweets? I have official email from @79087 they dont care , they did not sell this product.",
+    "created_at": "Tue Oct 31 08:10:12 +0000 2017",
+    "in_response_to_tweet_id": 13885.0,
+    "response_tweet_id": "13883",
+    "agent_reply_id": 13883,
+    "agent_reply_text": "@118918 I get your concern.We wouldn't be able to work on the issue until we receive a service denial letter from the manufacturer.^NS"
+  },
+  {
+    "inbound_tweet_id": 13888,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp I have visited multiple times. why would a sc change uts policy to meet ur unreasonable demands? this issue is ongoing since 1.5 months.",
+    "created_at": "Tue Oct 31 07:53:39 +0000 2017",
+    "in_response_to_tweet_id": 13889.0,
+    "response_tweet_id": "13885",
+    "agent_reply_id": 13885,
+    "agent_reply_text": "@118918 If the manufacturer refuses to honor warranty on a device, you shall receive a service denial letter for the same. ^HK"
+  },
+  {
+    "inbound_tweet_id": 13892,
+    "customer_handle": "@118918",
+    "customer_text": "@AmazonHelp @115851 @115821 If iball declines my request, I cannot threaten @79087 into providing one.",
+    "created_at": "Tue Oct 31 07:16:57 +0000 2017",
+    "in_response_to_tweet_id": 13894.0,
+    "response_tweet_id": "13889,13893",
+    "agent_reply_id": 13889,
+    "agent_reply_text": "@118918 without a service denial letter. Kindly try visiting your nearest service center to report it and keep us posted. 2/2 ^AB"
+  },
+  {
+    "inbound_tweet_id": 13900,
+    "customer_handle": "@118920",
+    "customer_text": "@AmazonHelp is there a way to know if the Amazon gift cards I send are being used?",
+    "created_at": "Wed Nov 01 01:56:33 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "13899",
+    "agent_reply_id": 13899,
+    "agent_reply_text": "@118920 You would only be able to confirm gift card balances on the account it is redeemed on. ^JP"
+  },
+  {
+    "inbound_tweet_id": 13902,
+    "customer_handle": "@118921",
+    "customer_text": "@AmazonHelp Thanks! I will.",
+    "created_at": "Wed Nov 01 02:25:27 +0000 2017",
+    "in_response_to_tweet_id": 13901.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 13907,
+    "customer_handle": "@118924",
+    "customer_text": "@AmazonHelp Update ??? What your internal investigation repors tell you ??",
+    "created_at": "Wed Nov 01 02:05:44 +0000 2017",
+    "in_response_to_tweet_id": 13908.0,
+    "response_tweet_id": "13906",
+    "agent_reply_id": 13906,
+    "agent_reply_text": "@118924 Sorry for this trouble. If the details were shared, you must've received a correspondence from us. Please check and reply. ^HD"
+  },
+  {
+    "inbound_tweet_id": 13909,
+    "customer_handle": "@118924",
+    "customer_text": "@AmazonHelp So what have you decided my dear @115850 @115821 ?? By this time you should've known the entire issue.I'm expecting a response from you",
+    "created_at": "Tue Oct 24 09:31:57 +0000 2017",
+    "in_response_to_tweet_id": 13910.0,
+    "response_tweet_id": "13908",
+    "agent_reply_id": 13908,
+    "agent_reply_text": "@118924 We have received your details. We are working on it and will get back to you with an update at the earliest. ^HR"
+  },
+  {
+    "inbound_tweet_id": 13916,
+    "customer_handle": "@118925",
+    "customer_text": "@AmazonHelp Worse part, customer support thought it was coming today too, which I reached out at 4:30 pm",
+    "created_at": "Wed Nov 01 02:20:29 +0000 2017",
+    "in_response_to_tweet_id": 13915.0,
+    "response_tweet_id": "13920",
+    "agent_reply_id": 13920,
+    "agent_reply_text": "@118925 I'm sorry for the inconvenience. When you reached out to us, what options or insight did we provide? ^GM"
+  },
+  {
+    "inbound_tweet_id": 13921,
+    "customer_handle": "@118925",
+    "customer_text": "@AmazonHelp I talked on the phone to someone who offered 10 percent off but that isn't on the account yet.  Still don't know delivery date.",
+    "created_at": "Wed Nov 01 02:47:06 +0000 2017",
+    "in_response_to_tweet_id": 13920.0,
+    "response_tweet_id": "13923",
+    "agent_reply_id": 13923,
+    "agent_reply_text": "@118925 Which carrier was assigned to deliver your package today? ^TN"
+  },
+  {
+    "inbound_tweet_id": 13924,
+    "customer_handle": "@118925",
+    "customer_text": "@AmazonHelp It doesn't say.  It shows it hasn't shipped yet.",
+    "created_at": "Wed Nov 01 02:56:47 +0000 2017",
+    "in_response_to_tweet_id": 13923.0,
+    "response_tweet_id": "13925",
+    "agent_reply_id": 13925,
+    "agent_reply_text": "@118925 Did we ask you to wait a certain date before we could offer alternative options? ^EZ"
+  },
+  {
+    "inbound_tweet_id": 13926,
+    "customer_handle": "@118925",
+    "customer_text": "@AmazonHelp Nothing on my order on your web site.",
+    "created_at": "Wed Nov 01 03:11:38 +0000 2017",
+    "in_response_to_tweet_id": 13925.0,
+    "response_tweet_id": "13928",
+    "agent_reply_id": 13928,
+    "agent_reply_text": "@118925 Late order usually arrive the next business day. If your order hasn't arrived by 8:00 PM tomorrow, please let us know. ^LR"
+  },
+  {
+    "inbound_tweet_id": 13929,
+    "customer_handle": "@118925",
+    "customer_text": "@AmazonHelp Got emails with discount on future order and one with a new ship date of Thursday. Not holding my breath.",
+    "created_at": "Wed Nov 01 05:40:35 +0000 2017",
+    "in_response_to_tweet_id": 13928.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 13927,
+    "customer_handle": "@118925",
+    "customer_text": "@AmazonHelp Nothing official",
+    "created_at": "Wed Nov 01 03:11:20 +0000 2017",
+    "in_response_to_tweet_id": 13925.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 13922,
+    "customer_handle": "@118925",
+    "customer_text": "@AmazonHelp Nothing. Chat at 4:30 said to contact after 8:00 chat did give answers that didn't make sense.",
+    "created_at": "Wed Nov 01 02:45:54 +0000 2017",
+    "in_response_to_tweet_id": 13920.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 13917,
+    "customer_handle": "@118925",
+    "customer_text": "@AmazonHelp  https://t.co/DJzdya8ZMM",
+    "created_at": "Wed Nov 01 02:17:13 +0000 2017",
+    "in_response_to_tweet_id": 13915.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 13918,
+    "customer_handle": "@118925",
+    "customer_text": "@AmazonHelp No, it still says arriving today.  I should have been notified as soon as the delivery date changed.",
+    "created_at": "Wed Nov 01 02:15:49 +0000 2017",
+    "in_response_to_tweet_id": 13915.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 14011,
+    "customer_handle": "@118951",
+    "customer_text": "@AmazonHelp Please simply answer my question.  I am not an AmazonFresh customer, just a condominium unit owner inconvenienced by UR customers  &amp;trying 2 figure out how we can all accommodate one another.  Y R U making this so complicated? Direct message me with UR contact info.",
+    "created_at": "Thu Nov 30 21:11:55 +0000 2017",
+    "in_response_to_tweet_id": 14010.0,
+    "response_tweet_id": "14013",
+    "agent_reply_id": 14013,
+    "agent_reply_text": "@118951 We'll ask customers to leave their totes out for pickup. However, they shouldn't be left for 10 or more days awaiting pickup. For security, we're unable to DM personal details. Once we receive your information at the link we've referenced, we can help sort this. ^RA"
+  },
+  {
+    "inbound_tweet_id": 14014,
+    "customer_handle": "@118951",
+    "customer_text": "@AmazonHelp Who's security?  UR asking 4 MY personal details.  Surely U have company phone #s that aren't \"personal.\"  This is absurd. I'm TRYING 2 work w/U people. Y do U make it so hard?  May I be referred to a mgr who isn't afraid 2 speak w/an intelligent, reasonable woman 2 work out sols",
+    "created_at": "Thu Nov 30 21:37:52 +0000 2017",
+    "in_response_to_tweet_id": 14013.0,
+    "response_tweet_id": "14015",
+    "agent_reply_id": 14015,
+    "agent_reply_text": "@118951 We cannot accommodate this request via Twitter. Please send us your details using the link provided by FR. ^GR"
+  },
+  {
+    "inbound_tweet_id": 14016,
+    "customer_handle": "@118951",
+    "customer_text": "@AmazonHelp I wonder, will UR uber boss #BenHartman get copied on this thread?  Gotta say, I'm not a customer at the moment, only impacted by UR customers. This customer service experience greatly disinclines me 2 even consider #AmazonFresh.  Maybe Mr. Hartman could change my mind.  I dunno.",
+    "created_at": "Thu Nov 30 22:02:55 +0000 2017",
+    "in_response_to_tweet_id": 14015.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 14017,
+    "customer_handle": "@118951",
+    "customer_text": "@AmazonHelp #AmazonFresh, Just send me the damned written protocol given customers 4 the disposition of the delivery totes post-delivery.  I'd hoped 2 have a productive discussion 4 accommodating this service in Urban areas.  Guess not.  Your totes'll B going in2 the trash. U must B Trumpery",
+    "created_at": "Thu Nov 30 21:46:57 +0000 2017",
+    "in_response_to_tweet_id": 14015.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 14012,
+    "customer_handle": "@118951",
+    "customer_text": "@AmazonHelp Don't be silly.  Read the Tweet!  I NEED 2 KNOW HOW U INSTRUCT CUSTOMERS.\n\nWhat is the plan?  We've tenants who think they've the rite 2 store empty AF totes in the common area presumably awaiting PickUp 10+ days is 10 days longer that the small front hall common area can handle.",
+    "created_at": "Thu Nov 30 20:41:23 +0000 2017",
+    "in_response_to_tweet_id": 14018.0,
+    "response_tweet_id": "14010",
+    "agent_reply_id": 14010,
+    "agent_reply_text": "@118951 Please provide your information in the link FR provided and we'll have a team member look into this personally and reach out to you. I'm sorry for any inconvenience. ^HS"
+  },
+  {
+    "inbound_tweet_id": 14020,
+    "customer_handle": "@118951",
+    "customer_text": "@AmazonHelp We have 2 work 2gether to accommodate UR new service.  I simply need 2 know how exactly U instruct AF customers re disposition of the large green insulated carriers.  Not a difficult question--need the written instrux.",
+    "created_at": "Thu Nov 30 20:25:12 +0000 2017",
+    "in_response_to_tweet_id": 14021.0,
+    "response_tweet_id": "14018",
+    "agent_reply_id": 14018,
+    "agent_reply_text": "@118951 I would like to have a team member look into getting the totes picked up for you! Please add your details here: https://t.co/MoFmdEXzbY so we can help out with this! Keep us updated on the status! ^FR"
+  },
+  {
+    "inbound_tweet_id": 14280,
+    "customer_handle": "@119036",
+    "customer_text": "@AmazonHelp Today; 1st November. Or I wouldn't have ordered. I needed them to arrive at mums today so she can bring to me urgently in hospital tonight.",
+    "created_at": "Wed Nov 01 05:37:24 +0000 2017",
+    "in_response_to_tweet_id": 14279.0,
+    "response_tweet_id": "14282",
+    "agent_reply_id": 14282,
+    "agent_reply_text": "@119036 I can understand your frustration. Please reach out to us here to go over available options: https://t.co/ju0HEJTlrg ^CL"
+  },
+  {
+    "inbound_tweet_id": 14283,
+    "customer_handle": "@119036",
+    "customer_text": "@AmazonHelp Thank you - done.",
+    "created_at": "Wed Nov 01 05:47:38 +0000 2017",
+    "in_response_to_tweet_id": 14282.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 14281,
+    "customer_handle": "@119036",
+    "customer_text": "Placed order today, said delivery would be Wed but just received email saying it'll be Thurs now? I'm a prime customer @AmazonHelp. Unhappy!",
+    "created_at": "Wed Nov 01 02:18:24 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "14279",
+    "agent_reply_id": 14279,
+    "agent_reply_text": "@119036 I'm so sorry for the frustration! What was the date given in the original confirmation e-mail: https://t.co/SsPOz2ryIS? ^DG"
+  },
+  {
+    "inbound_tweet_id": 14285,
+    "customer_handle": "@119037",
+    "customer_text": "@AmazonHelp I found out that when I subbed to a channel on Twitch using Amazon pay it moved ALL my subscriptions to Amazon Pay. A heads up would be nice",
+    "created_at": "Wed Nov 01 03:11:29 +0000 2017",
+    "in_response_to_tweet_id": 14284.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 14293,
+    "customer_handle": "@119041",
+    "customer_text": "@AmazonHelp Yes. You definitely missed my delivery date. Twice. Also your call center staff seems to have no understanding of how mail delivery works.",
+    "created_at": "Wed Nov 01 03:08:02 +0000 2017",
+    "in_response_to_tweet_id": 14292.0,
+    "response_tweet_id": "14295",
+    "agent_reply_id": 14295,
+    "agent_reply_text": "@119041 I certainly understand your frustration! Who was the carrier for these orders? Please check here: https://t.co/Y5jpI9gRhE ^BE"
+  },
+  {
+    "inbound_tweet_id": 14296,
+    "customer_handle": "@119041",
+    "customer_text": "@AmazonHelp How do I speak with a manager who actually can answer questions about Amazon (AMZL US) logistics not from a call center script?",
+    "created_at": "Wed Nov 01 03:36:32 +0000 2017",
+    "in_response_to_tweet_id": 14295.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 14297,
+    "customer_handle": "@119041",
+    "customer_text": "@AmazonHelp The carrier in both instances has been Amazon. Service has been awful once @115821 started doing the deliveries.",
+    "created_at": "Wed Nov 01 03:34:24 +0000 2017",
+    "in_response_to_tweet_id": 14295.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 14298,
+    "customer_handle": "@119041",
+    "customer_text": "@AmazonHelp @115821 consider leaving the delivery of packages to the experts at @115817 or @81. Obvious decline in service when it\u2019s @115821 logistics.",
+    "created_at": "Wed Nov 01 03:39:08 +0000 2017",
+    "in_response_to_tweet_id": 14295.0,
+    "response_tweet_id": "14299",
+    "agent_reply_id": 14299,
+    "agent_reply_text": "@119041 We'd like to take a closer look to see what we can do. Please reach out with more information here: https://t.co/AdBZ9CgtFD ^DG"
+  },
+  {
+    "inbound_tweet_id": 14300,
+    "customer_handle": "@119041",
+    "customer_text": "@AmazonHelp Just completed form. Would be great to speak with someone able to solve the problem, instead of just offering 1 month of free prime.",
+    "created_at": "Wed Nov 01 04:18:06 +0000 2017",
+    "in_response_to_tweet_id": 14299.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 14302,
+    "customer_handle": "@119043",
+    "customer_text": "@AmazonHelp @119042 Thank you! Solved 2 problems with coustomer service. I LOVE Amazon. Super helpful. \ud83d\udc4d\ud83d\udc4d",
+    "created_at": "Wed Nov 01 02:59:15 +0000 2017",
+    "in_response_to_tweet_id": 14301.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 14303,
+    "customer_handle": "@119042",
+    "customer_text": "@AmazonHelp ordered what was on the box for my sister\u2019s wedding gift, that\u2019s what came out of the box. What gives?! https://t.co/8jX9A0Ipcu",
+    "created_at": "Wed Nov 01 02:17:05 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "14301,14304",
+    "agent_reply_id": 14301,
+    "agent_reply_text": "@119042 I'm sorry for the trouble! We'd like to review available options with you. Please reach out to us here:  https://t.co/hApLpMlfHN ^LJ"
+  },
+  {
+    "inbound_tweet_id": 17182,
+    "customer_handle": "@119790",
+    "customer_text": "@AmazonHelp Yes thanks all good!",
+    "created_at": "Wed Nov 01 04:28:42 +0000 2017",
+    "in_response_to_tweet_id": 17181.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17183,
+    "customer_handle": "@119790",
+    "customer_text": "'Hey @AmazonHelp i haven't received my \"delivered\" order.' \n'Did you check around your house' lmao https://t.co/w6FRcwmoFX",
+    "created_at": "Wed Nov 01 04:10:07 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "17181,17184",
+    "agent_reply_id": 17181,
+    "agent_reply_text": "@119790 I'm sorry you didn't receive your order. Did our customer service agent provide a solution for you? ^SE"
+  },
+  {
+    "inbound_tweet_id": 17186,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp Kindly share my contact number 9800019281 to ur team to contact me",
+    "created_at": "Wed Nov 01 05:09:56 +0000 2017",
+    "in_response_to_tweet_id": 17185.0,
+    "response_tweet_id": "17188,17189",
+    "agent_reply_id": 17188,
+    "agent_reply_text": "@119791 Also, please don't provide your contact details as its personal info. Our Twitter page is visible to public. 2/2 ^AB"
+  },
+  {
+    "inbound_tweet_id": 17190,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp See after getting amount it happens that eveyone become unable in assisting.",
+    "created_at": "Wed Nov 01 05:19:59 +0000 2017",
+    "in_response_to_tweet_id": 17188.0,
+    "response_tweet_id": "17191,17192",
+    "agent_reply_id": 17191,
+    "agent_reply_text": "@119791 Due to which we do not have an option to call you back, please use the link provided earlier to request a call back. (2/2) ^SI"
+  },
+  {
+    "inbound_tweet_id": 17193,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp Thats why i writing here that rest of the people shd know about your services and how you r making fool on name of prime",
+    "created_at": "Wed Nov 01 05:25:11 +0000 2017",
+    "in_response_to_tweet_id": 17192.0,
+    "response_tweet_id": "17194,17195",
+    "agent_reply_id": 17194,
+    "agent_reply_text": "@119791 further assistance. Appreciate your understanding. (2/2) ^KA"
+  },
+  {
+    "inbound_tweet_id": 17196,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp I dont need to contact u now, it is as mistake take that i paid for Prime.",
+    "created_at": "Wed Nov 01 05:46:56 +0000 2017",
+    "in_response_to_tweet_id": 17194.0,
+    "response_tweet_id": "17197,17198",
+    "agent_reply_id": 17197,
+    "agent_reply_text": "@119791 out to our team using the link shared earlier. (2/2) ^GK"
+  },
+  {
+    "inbound_tweet_id": 17199,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp I will not contact ur supoort team.",
+    "created_at": "Wed Nov 01 06:28:04 +0000 2017",
+    "in_response_to_tweet_id": 17197.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17200,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp Kindly note i will not received or accept my last order. I have choosen COD but due bad service of Prime i will not accept",
+    "created_at": "Thu Nov 02 08:34:40 +0000 2017",
+    "in_response_to_tweet_id": 17197.0,
+    "response_tweet_id": "17201,17202",
+    "agent_reply_id": 17201,
+    "agent_reply_text": "@119791 provide your details here:  https://t.co/beaaDm0muc &amp; we'll get this sorted.(2/2)^SF"
+  },
+  {
+    "inbound_tweet_id": 17203,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp I dont want to change my order but will not accept. Order # 403-3917499-2913904",
+    "created_at": "Thu Nov 02 08:59:53 +0000 2017",
+    "in_response_to_tweet_id": 17202.0,
+    "response_tweet_id": "17204,17205",
+    "agent_reply_id": 17204,
+    "agent_reply_text": "@119791 to you. Please don\u2019t provide your details as we consider them to be personal information. Our Twitter page is public. 2/2 ^SH"
+  },
+  {
+    "inbound_tweet_id": 17187,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp Kindly return my prime membership amount",
+    "created_at": "Wed Nov 01 04:09:50 +0000 2017",
+    "in_response_to_tweet_id": 17206.0,
+    "response_tweet_id": "17185",
+    "agent_reply_id": 17185,
+    "agent_reply_text": "@119791 Please connect with our support team here: https://t.co/2t6DQoUmNZ for further assistance on it. ^RW"
+  },
+  {
+    "inbound_tweet_id": 17207,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp When i was not a member everything was under gaurantied delivery and once i paid for membership facility is limited",
+    "created_at": "Tue Oct 31 06:11:39 +0000 2017",
+    "in_response_to_tweet_id": 17208.0,
+    "response_tweet_id": "17206",
+    "agent_reply_id": 17206,
+    "agent_reply_text": "@119791 We will consider this as feedback and ensure to pass it on internally for improvements. ^RW"
+  },
+  {
+    "inbound_tweet_id": 17209,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp After prime membership gaurantied delivery option has vanished now",
+    "created_at": "Tue Oct 31 05:50:01 +0000 2017",
+    "in_response_to_tweet_id": 17211.0,
+    "response_tweet_id": "17208,17210",
+    "agent_reply_id": 17208,
+    "agent_reply_text": "@119791 If the factors do not provide the feasibility of a guaranteed delivery, the option will not be available. (2/2) ^ZH"
+  },
+  {
+    "inbound_tweet_id": 17212,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp No use of prime membership, return my money",
+    "created_at": "Tue Oct 31 05:18:37 +0000 2017",
+    "in_response_to_tweet_id": 17213.0,
+    "response_tweet_id": "17211",
+    "agent_reply_id": 17211,
+    "agent_reply_text": "@119791 Could you please confirm, if we've missed the estimated delivery date? ^AG"
+  },
+  {
+    "inbound_tweet_id": 17214,
+    "customer_handle": "@119791",
+    "customer_text": "@AmazonHelp Pathetic reply by your caller",
+    "created_at": "Tue Oct 31 04:53:16 +0000 2017",
+    "in_response_to_tweet_id": 17215.0,
+    "response_tweet_id": "17213",
+    "agent_reply_id": 17213,
+    "agent_reply_text": "@119791 Did we happen to miss the estimated delivery date? ^AG"
+  },
+  {
+    "inbound_tweet_id": 17220,
+    "customer_handle": "@119793",
+    "customer_text": "@AmazonHelp None of your links are taking me to a solution. Been after this since 3 days. Most pathetic service ever. You guys shall call me ASAP! (1/2)",
+    "created_at": "Wed Nov 01 06:51:15 +0000 2017",
+    "in_response_to_tweet_id": 17219.0,
+    "response_tweet_id": "17222,17223",
+    "agent_reply_id": 17223,
+    "agent_reply_text": "@119793 Please add an email address to your account and then continue to fill the form. Appreciate your patience. ^RW"
+  },
+  {
+    "inbound_tweet_id": 17222,
+    "customer_handle": "@119793",
+    "customer_text": "@AmazonHelp Kindly send me a direct message so that I can revert back with my phone number and expect a call SOON! (2/2)",
+    "created_at": "Wed Nov 01 06:52:30 +0000 2017",
+    "in_response_to_tweet_id": 17220.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17221,
+    "customer_handle": "@119793",
+    "customer_text": "@AmazonHelp This form also has a tab which asks for the email address associated with my Amazon account but there is NONE. How do I fill in that? Urghh",
+    "created_at": "Wed Nov 01 03:51:07 +0000 2017",
+    "in_response_to_tweet_id": 17226.0,
+    "response_tweet_id": "17219,17224,17225",
+    "agent_reply_id": 17219,
+    "agent_reply_text": "@119793 select 'More order issues' &gt; choose from chat/phone/email we'll be glad to help. (3/3) ^KA"
+  },
+  {
+    "inbound_tweet_id": 17227,
+    "customer_handle": "@119793",
+    "customer_text": "@AmazonHelp This is very irritating. When I request a call, each time on the call it says, you don't have any order. For more info visit website. Poor!",
+    "created_at": "Tue Oct 31 13:26:13 +0000 2017",
+    "in_response_to_tweet_id": 17228.0,
+    "response_tweet_id": "17226",
+    "agent_reply_id": 17226,
+    "agent_reply_text": "@119793 I apologize for this. Request you to share the details using this link: https://t.co/cQVomR1pWz and we'll look into it. ^SK"
+  },
+  {
+    "inbound_tweet_id": 17229,
+    "customer_handle": "@119793",
+    "customer_text": "@AmazonHelp I am unable to drop you a mail through this link as there's no email id associated with this account, it's a mobile account. Facing trouble.",
+    "created_at": "Tue Oct 31 07:31:26 +0000 2017",
+    "in_response_to_tweet_id": 17230.0,
+    "response_tweet_id": "17228",
+    "agent_reply_id": 17228,
+    "agent_reply_text": "@119793 Please log into your account using your mobile number and request a call back from us. We'll reach out to you and help. ^HK"
+  },
+  {
+    "inbound_tweet_id": 17233,
+    "customer_handle": "@119794",
+    "customer_text": "@AmazonHelp I have replied to the mail also check it and provide some useful reply",
+    "created_at": "Wed Nov 01 15:16:33 +0000 2017",
+    "in_response_to_tweet_id": 17232.0,
+    "response_tweet_id": "17235",
+    "agent_reply_id": 17235,
+    "agent_reply_text": "@119794 Thank you for confirming. You should hear an update from us soon. Keep an eye on your mailbox. ^MP"
+  },
+  {
+    "inbound_tweet_id": 17234,
+    "customer_handle": "@119794",
+    "customer_text": "Going to take this in the consumer court...total fraud from amazon @AmazonHelp i will sue you guys for this ... https://t.co/R8hCqnIS4i",
+    "created_at": "Wed Nov 01 03:55:49 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "17232",
+    "agent_reply_id": 17232,
+    "agent_reply_text": "@119794 We're unable to verify any detail over Twitter, Anjana. Please respond to our email so we could take it from there. ^JC"
+  },
+  {
+    "inbound_tweet_id": 17239,
+    "customer_handle": "@119796",
+    "customer_text": "@AmazonHelp Please find attached screenshot https://t.co/uivHzbY3JE",
+    "created_at": "Wed Nov 01 04:26:52 +0000 2017",
+    "in_response_to_tweet_id": 17238.0,
+    "response_tweet_id": "17241",
+    "agent_reply_id": 17241,
+    "agent_reply_text": "@119796 I'm sorry for the trouble. Please submit your details here: https://t.co/GIJyeYqKE0 and we'll check right away. ^RW"
+  },
+  {
+    "inbound_tweet_id": 17242,
+    "customer_handle": "@119796",
+    "customer_text": "@AmazonHelp I have shared the details I need immediate solution for this I have to give order today",
+    "created_at": "Wed Nov 01 04:44:28 +0000 2017",
+    "in_response_to_tweet_id": 17241.0,
+    "response_tweet_id": "17243",
+    "agent_reply_id": 17243,
+    "agent_reply_text": "@119796 Thanks. We'll check and revert at the earliest. ^HK"
+  },
+  {
+    "inbound_tweet_id": 17244,
+    "customer_handle": "@119796",
+    "customer_text": "@AmazonHelp Still I didn't received any update from your end. I have to book order today",
+    "created_at": "Wed Nov 01 12:46:41 +0000 2017",
+    "in_response_to_tweet_id": 17243.0,
+    "response_tweet_id": "17245",
+    "agent_reply_id": 17245,
+    "agent_reply_text": "@119796 You must have received a response here: https://t.co/cx0UNsZXpj. Please let us know if you do not see the email here. ^KS"
+  },
+  {
+    "inbound_tweet_id": 17246,
+    "customer_handle": "@119796",
+    "customer_text": "@AmazonHelp Afternoon only I have replied. I have screenshot also. Till now I didn't received any update. After doing regular follow-up also no action",
+    "created_at": "Wed Nov 01 13:14:04 +0000 2017",
+    "in_response_to_tweet_id": 17245.0,
+    "response_tweet_id": "17247",
+    "agent_reply_id": 17247,
+    "agent_reply_text": "@119796 I'm sorry for the stretch. We're working on this and we'll reach out to you soon with an update. Appreciate your cooperation. ^KH"
+  },
+  {
+    "inbound_tweet_id": 17248,
+    "customer_handle": "@119796",
+    "customer_text": "@AmazonHelp Till now also I don't received any update from your end",
+    "created_at": "Thu Nov 02 18:04:44 +0000 2017",
+    "in_response_to_tweet_id": 17247.0,
+    "response_tweet_id": "17249,17250",
+    "agent_reply_id": 17249,
+    "agent_reply_text": "@119796 and proceed as per the suggestion. ^SG(2/2)"
+  },
+  {
+    "inbound_tweet_id": 17251,
+    "customer_handle": "@119796",
+    "customer_text": "@AmazonHelp This is my account only. How you can say this is duplicate account.",
+    "created_at": "Fri Nov 03 13:17:12 +0000 2017",
+    "in_response_to_tweet_id": 17250.0,
+    "response_tweet_id": "17252",
+    "agent_reply_id": 17252,
+    "agent_reply_text": "@119796 Twitter being a social platform, we wouldn't be able to check the account info here. Kindly reply to the email sent by us. ^PR"
+  },
+  {
+    "inbound_tweet_id": 17240,
+    "customer_handle": "@119796",
+    "customer_text": "@AmazonHelp I unable to add money to my Amazon wallet. I called customer service but no action since one month",
+    "created_at": "Wed Nov 01 04:01:36 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "17238",
+    "agent_reply_id": 17238,
+    "agent_reply_text": "@119796 I'm sorry for the trouble. Could you tell us more about the issue you're facing while adding amount to your pay balance? ^GK"
+  },
+  {
+    "inbound_tweet_id": 17256,
+    "customer_handle": "@119798",
+    "customer_text": "@AmazonHelp wht explanation would you like 2 gv now as mor order got cancelled n products r returned back after waiting 4 mor thn two weeks?",
+    "created_at": "Wed Nov 01 03:52:18 +0000 2017",
+    "in_response_to_tweet_id": 17257.0,
+    "response_tweet_id": "17255",
+    "agent_reply_id": 17255,
+    "agent_reply_text": "@119798 I'm sorry about that. Could you confirm sharing your details in the link shared earlier? ^GK"
+  },
+  {
+    "inbound_tweet_id": 17258,
+    "customer_handle": "@119798",
+    "customer_text": "@AmazonHelp whts benefit? chatted wth 1 of ur executive. aprt fr4 Sorry n Apology he has nothing 2 offer. if u cn do something better thn reply or leave",
+    "created_at": "Fri Oct 20 11:46:06 +0000 2017",
+    "in_response_to_tweet_id": 17259.0,
+    "response_tweet_id": "17257",
+    "agent_reply_id": 17257,
+    "agent_reply_text": "@119798 I get you're upset. However, we'd like to get this sorted out, please share the details and we'll reach out to you. ^MS"
+  },
+  {
+    "inbound_tweet_id": 17260,
+    "customer_handle": "@119798",
+    "customer_text": "@AmazonHelp apologies only dnt work. why last tim i was gvn assurance tht i wont repeat and now it happened again, whts your excuse now?",
+    "created_at": "Fri Oct 20 11:38:45 +0000 2017",
+    "in_response_to_tweet_id": 17261.0,
+    "response_tweet_id": "17259",
+    "agent_reply_id": 17259,
+    "agent_reply_text": "@119798 I\u2019m sorry for the hassle. Please drop in your details here: https://t.co/GIJyeYqKE0 We will look into it. ^SB"
+  },
+  {
+    "inbound_tweet_id": 17265,
+    "customer_handle": "@119799",
+    "customer_text": "@AmazonHelp I have a samsung and roku tvs. On both models I have trouble watching. The roku the most. The samsung is better but I've experienced buffer",
+    "created_at": "Wed Nov 01 04:25:35 +0000 2017",
+    "in_response_to_tweet_id": 17264.0,
+    "response_tweet_id": "17267",
+    "agent_reply_id": 17267,
+    "agent_reply_text": "@119799 I'm sorry to hear this. Please try these tips and let us know if it improves: https://t.co/PnaAaBPiBh ^BH"
+  },
+  {
+    "inbound_tweet_id": 17637,
+    "customer_handle": "@119902",
+    "customer_text": "@AmazonHelp The pick up has been arranged 5 times now and cancelled at the last moment without citing any reason!",
+    "created_at": "Wed Nov 01 04:51:47 +0000 2017",
+    "in_response_to_tweet_id": 17638.0,
+    "response_tweet_id": "17636",
+    "agent_reply_id": 17636,
+    "agent_reply_text": "@119902 I'd like to take a closer look into it. Please fill in this form: https://t.co/GIJyeYqKE0 and I'll revert shortly. ^AB"
+  },
+  {
+    "inbound_tweet_id": 17639,
+    "customer_handle": "@119902",
+    "customer_text": "@AmazonHelp It is a doorstep pick up but I need to bear the charges for the courier while I am struggling to get a refund for the already paid order",
+    "created_at": "Wed Nov 01 04:41:59 +0000 2017",
+    "in_response_to_tweet_id": 17640.0,
+    "response_tweet_id": "17638",
+    "agent_reply_id": 17638,
+    "agent_reply_text": "@119902 Was a pick up arranged on your order or were you asked to self-return it? Please tell us more. ^HK"
+  },
+  {
+    "inbound_tweet_id": 17641,
+    "customer_handle": "@119902",
+    "customer_text": "@AmazonHelp #pathetic customer service. New low in e-commerce. Trying to raise a return request 5 times. #Fail",
+    "created_at": "Wed Nov 01 04:10:09 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "17640,17642",
+    "agent_reply_id": 17640,
+    "agent_reply_text": "@119902 Sorry for the trouble while raising a return request. May I know if you have been asked to self return the item? ^SH"
+  },
+  {
+    "inbound_tweet_id": 17644,
+    "customer_handle": "@119903",
+    "customer_text": "@AmazonHelp Did you guys do anything?",
+    "created_at": "Wed Nov 01 04:09:40 +0000 2017",
+    "in_response_to_tweet_id": 17646.0,
+    "response_tweet_id": "17643,17645",
+    "agent_reply_id": 17643,
+    "agent_reply_text": "@119903 (2/2) For account security reasons, we recommend that you delete any account sensitive information from Twitter. Thank you. ^SE"
+  },
+  {
+    "inbound_tweet_id": 17648,
+    "customer_handle": "@119903",
+    "customer_text": "@AmazonHelp @7108 Found error on website, one click on $4.85 makes it $285 on card select screen https://t.co/zrzUwV6Cl1",
+    "created_at": "Tue Oct 31 13:54:53 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "17649,17646,17650",
+    "agent_reply_id": 17646,
+    "agent_reply_text": "@119903 to the payment page that you have in your 2nd screenshot? We want to help in the best way possible, so pls let us know! ^KN 2/2"
+  },
+  {
+    "inbound_tweet_id": 17652,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp Collect product at my home address will pay him courier charges. Hope u help your valuable customers.?",
+    "created_at": "Wed Nov 01 05:04:13 +0000 2017",
+    "in_response_to_tweet_id": 17651.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17653,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp Now I have suffer in self returning product and also not sure that courier charges will be given by Amazon or not. Please arrange person to",
+    "created_at": "Wed Nov 01 05:03:37 +0000 2017",
+    "in_response_to_tweet_id": 17651.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17654,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp Why should I suffer if product is not up to the mark. We know Amazon only not to other things. I bought because of Amazon name only.",
+    "created_at": "Wed Nov 01 05:02:51 +0000 2017",
+    "in_response_to_tweet_id": 17651.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17655,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp I need a solution why u r not helping consumers on self return things. M not bought product to self return. Why Amazon allows such seller",
+    "created_at": "Wed Nov 01 05:01:57 +0000 2017",
+    "in_response_to_tweet_id": 17651.0,
+    "response_tweet_id": "17657,17658",
+    "agent_reply_id": 17657,
+    "agent_reply_text": "@119904 to our team internally to work on it. 2/2 ^SB"
+  },
+  {
+    "inbound_tweet_id": 17659,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp Also concern how I get my shipping charges back once self return product?",
+    "created_at": "Wed Nov 01 05:45:53 +0000 2017",
+    "in_response_to_tweet_id": 17657.0,
+    "response_tweet_id": "17660",
+    "agent_reply_id": 17660,
+    "agent_reply_text": "@119904 Please connect with us using this link here: https://t.co/00q4Sqj9zL for further assistance. ^KA"
+  },
+  {
+    "inbound_tweet_id": 17661,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp Thanks a lot for helping your consumers we always grateful to u. There is no online shopping app where problems not occur but to help",
+    "created_at": "Wed Nov 01 19:01:44 +0000 2017",
+    "in_response_to_tweet_id": 17660.0,
+    "response_tweet_id": "17662",
+    "agent_reply_id": 17662,
+    "agent_reply_text": "@119904 You're welcome. Appreciate your understanding. Do keep us posted for any further assistance and we'll be glad to hep you. ^MK"
+  },
+  {
+    "inbound_tweet_id": 17656,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp @115850 I have bought a product and now it's size is not matching I want to return it and also requested return process.",
+    "created_at": "Wed Nov 01 04:45:08 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "17651,17663,17664,17665,17666,17667",
+    "agent_reply_id": 17651,
+    "agent_reply_text": "@119904 You may refer here: https://t.co/M27c4qF86m for details on refund for return shipping charges. Hope this helps! 3/3 ^AB"
+  },
+  {
+    "inbound_tweet_id": 17671,
+    "customer_handle": "@119906",
+    "customer_text": "@AmazonHelp Tried that. No joy. Original echo works. New echo plus works but adding both to music group seems impossible. Select one other is unavail",
+    "created_at": "Fri Nov 03 04:37:55 +0000 2017",
+    "in_response_to_tweet_id": 17670.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17674,
+    "customer_handle": "@119907",
+    "customer_text": "@AmazonHelp #unprofessional order id # \n403-7503264-7181114,403-8300003-6354735,403-5491238-8117144",
+    "created_at": "Wed Nov 01 04:50:59 +0000 2017",
+    "in_response_to_tweet_id": 17673.0,
+    "response_tweet_id": "17679,17680",
+    "agent_reply_id": 17679,
+    "agent_reply_text": "@119907 Please share your details here: https://t.co/GIJyeYqKE0 and I'll reach out to you. (2/2) ^KA"
+  },
+  {
+    "inbound_tweet_id": 17675,
+    "customer_handle": "@119907",
+    "customer_text": "@AmazonHelp #Discrimination if you can't deliver at rural locations please don't take an order but do not discriminate customers!",
+    "created_at": "Wed Nov 01 04:54:17 +0000 2017",
+    "in_response_to_tweet_id": 17673.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17676,
+    "customer_handle": "@119907",
+    "customer_text": "@AmazonHelp Being #harrassed by the delivery guys for days, reached out to customer service multiple times but hardly any resolution !",
+    "created_at": "Wed Nov 01 04:53:03 +0000 2017",
+    "in_response_to_tweet_id": 17673.0,
+    "response_tweet_id": "17681",
+    "agent_reply_id": 17681,
+    "agent_reply_text": "@119907 Please don't provide your order details, we consider it to be personal information. Our page is visible to the public. ^KA"
+  },
+  {
+    "inbound_tweet_id": 17682,
+    "customer_handle": "@119907",
+    "customer_text": "@AmazonHelp Oh you are so considerate, then why can't you treat the orders you take with same consideration, #Awful customer service",
+    "created_at": "Wed Nov 01 05:15:25 +0000 2017",
+    "in_response_to_tweet_id": 17681.0,
+    "response_tweet_id": "17683",
+    "agent_reply_id": 17683,
+    "agent_reply_text": "@119907 We'd like to help with that. Kindly drop in your details using the link provided above and we'll reach out to you. ^AB"
+  },
+  {
+    "inbound_tweet_id": 17677,
+    "customer_handle": "@119907",
+    "customer_text": "@AmazonHelp LMK if you need more elaboration, i am free all day, i love ordering on #Amazon and then spend weeks trying to get delivery issues resolved\ud83e\udd23",
+    "created_at": "Wed Nov 01 05:01:53 +0000 2017",
+    "in_response_to_tweet_id": 17673.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17678,
+    "customer_handle": "@119907",
+    "customer_text": "@AmazonHelp  where does a customer goes to share his/her concerns about the fullfillment centre",
+    "created_at": "Wed Nov 01 04:18:24 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "17673",
+    "agent_reply_id": 17673,
+    "agent_reply_text": "@119907 Could you please elaborate your concern about the fulfillment center so that I can assist you accordingly?^SF"
+  },
+  {
+    "inbound_tweet_id": 17685,
+    "customer_handle": "@119908",
+    "customer_text": "@AmazonHelp Okay\ud83d\udc4d",
+    "created_at": "Wed Nov 01 04:45:56 +0000 2017",
+    "in_response_to_tweet_id": 17684.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17686,
+    "customer_handle": "@119908",
+    "customer_text": "@AmazonHelp hey I started a Amazon prime trial..i was charged $1..wats that about ?",
+    "created_at": "Wed Nov 01 04:15:40 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "17684",
+    "agent_reply_id": 17684,
+    "agent_reply_text": "@119908 When you sign up for a Prime free trial, we send an authorization to your bank. Here's more info: https://t.co/9Kj5TvSFFo ^JP"
+  },
+  {
+    "inbound_tweet_id": 17889,
+    "customer_handle": "@119969",
+    "customer_text": "@AmazonHelp Yes. Once from the original date",
+    "created_at": "Wed Nov 01 05:50:51 +0000 2017",
+    "in_response_to_tweet_id": 17888.0,
+    "response_tweet_id": "17891",
+    "agent_reply_id": 17891,
+    "agent_reply_text": "@119969 What is the current delivery date? Has this passed? ^CL"
+  },
+  {
+    "inbound_tweet_id": 17892,
+    "customer_handle": "@119969",
+    "customer_text": "@AmazonHelp It was expected 10/30-10/31 so yes, it has passed.",
+    "created_at": "Wed Nov 01 05:56:58 +0000 2017",
+    "in_response_to_tweet_id": 17891.0,
+    "response_tweet_id": "17893",
+    "agent_reply_id": 17893,
+    "agent_reply_text": "@119969 Please contact us: https://t.co/hApLpMlfHN so an agent can look into this for you. ^JJ"
+  },
+  {
+    "inbound_tweet_id": 17890,
+    "customer_handle": "@119969",
+    "customer_text": "@AmazonHelp It was updated to 10/30 later but that was also wrong",
+    "created_at": "Wed Nov 01 04:48:37 +0000 2017",
+    "in_response_to_tweet_id": 17894.0,
+    "response_tweet_id": "17888",
+    "agent_reply_id": 17888,
+    "agent_reply_text": "@119969 Has the delivery date been updated on your tracking status? You can find that here:  https://t.co/Y5jpI9gRhE \n^BT"
+  },
+  {
+    "inbound_tweet_id": 17899,
+    "customer_handle": "@119628",
+    "customer_text": "@AmazonHelp I have called already and spoken to the rep. This keeps repeating. Fire your courier managers in my locality",
+    "created_at": "Wed Nov 01 05:15:56 +0000 2017",
+    "in_response_to_tweet_id": 17898.0,
+    "response_tweet_id": "17901,17902",
+    "agent_reply_id": 17901,
+    "agent_reply_text": "@119628 Please fill in your details using the link: https://t.co/JzRdscmdH9 and I'll get in touch with you soon. ^AK (2/2)"
+  },
+  {
+    "inbound_tweet_id": 17903,
+    "customer_handle": "@119628",
+    "customer_text": "@AmazonHelp Got it just now about 4 hours after it was supposedly delivered. As I said, unpredictable and non-trustworthy delivery process",
+    "created_at": "Wed Nov 01 07:13:03 +0000 2017",
+    "in_response_to_tweet_id": 17901.0,
+    "response_tweet_id": "17904",
+    "agent_reply_id": 17904,
+    "agent_reply_text": "@119628 Thanks for keeping us posted. I'll be sure to share your comments on this as feedback with the team internally. ^AB"
+  },
+  {
+    "inbound_tweet_id": 17907,
+    "customer_handle": "@119970",
+    "customer_text": "@AmazonHelp Thanks!",
+    "created_at": "Wed Nov 01 05:20:01 +0000 2017",
+    "in_response_to_tweet_id": 17906.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17908,
+    "customer_handle": "@119970",
+    "customer_text": "Two DOA orders. First hard drive came bouncing in a giant box, second one crushed in a padded envelope... sigh. Refund on way. @AmazonHelp https://t.co/4bRVrNlrBy",
+    "created_at": "Wed Nov 01 03:50:21 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "17906",
+    "agent_reply_id": 17906,
+    "agent_reply_text": "@119970 Please help us to improve by providing your packaging feedback here: https://t.co/9eu9vrS5HB ^SY"
+  },
+  {
+    "inbound_tweet_id": 17912,
+    "customer_handle": "@119972",
+    "customer_text": "@AmazonHelp @119973 Es nervt das ich mich seit neusten  beinahe t\u00e4glich auf. Fire tv stick neu einloggen muss \ud83d\ude08",
+    "created_at": "Tue Oct 31 23:09:32 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "17911,17913",
+    "agent_reply_id": 17911,
+    "agent_reply_text": "@119972 Oje! Melde dich doch gleich mal hier https://t.co/wWn0qM25US und lass meine Kollegen pr\u00fcfen, was da los sein k\u00f6nnte. Gru\u00df ^DS"
+  },
+  {
+    "inbound_tweet_id": 17915,
+    "customer_handle": "@119974",
+    "customer_text": "@AmazonHelp I have emailed you.. can you please reply to that as your system is too slow. Or give me a call.!",
+    "created_at": "Wed Nov 01 05:16:09 +0000 2017",
+    "in_response_to_tweet_id": 17914.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17918,
+    "customer_handle": "@119974",
+    "customer_text": "@AmazonHelp Please elaborate. If the charges are of prime subscription on https://t.co/PDFhxlk2Fc then why was i charged 499 in the first place??",
+    "created_at": "Wed Nov 01 05:06:23 +0000 2017",
+    "in_response_to_tweet_id": 17917.0,
+    "response_tweet_id": "17919",
+    "agent_reply_id": 17919,
+    "agent_reply_text": "@119974 We'd like to have a look into the same; hence the request. Kindly reach out to our support team for further assistance. ^AB"
+  },
+  {
+    "inbound_tweet_id": 17921,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp Know Amazon and buy products that Amazon will help his consumers in any conditions",
+    "created_at": "Wed Nov 01 05:08:16 +0000 2017",
+    "in_response_to_tweet_id": 17920.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17922,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp Where consumers are suffering. Not allow such sellers to sell their products on Amazon then. Amazon name damages. Because we as consumers",
+    "created_at": "Wed Nov 01 05:07:41 +0000 2017",
+    "in_response_to_tweet_id": 17920.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17923,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp Means your valuable customer have to suffer with this issue?  Then what about shipping charges? Why your customer pay from his pocket?",
+    "created_at": "Wed Nov 01 05:06:01 +0000 2017",
+    "in_response_to_tweet_id": 17920.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17924,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp If product was not to the mark. And customer had to face tension of self return too with shipping charges. Is this online shopping?",
+    "created_at": "Wed Nov 01 05:06:49 +0000 2017",
+    "in_response_to_tweet_id": 17920.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 17925,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp @115850 at my address. Will pay then return charges. But also want to tell u this is not right that we pay self return courier cost then what's",
+    "created_at": "Wed Nov 01 04:55:01 +0000 2017",
+    "in_response_to_tweet_id": 17667.0,
+    "response_tweet_id": "17920",
+    "agent_reply_id": 17920,
+    "agent_reply_text": "@119904 I understand your concern, unfortunately we cannot arrange a return as already mentioned. Kindly self-return the order. ^ZH"
+  },
+  {
+    "inbound_tweet_id": 17667,
+    "customer_handle": "@119904",
+    "customer_text": "@AmazonHelp @115850 What should I do now then. Self return is not possible as I am working professional do not have time will u arrange some one to pick it",
+    "created_at": "Wed Nov 01 04:53:58 +0000 2017",
+    "in_response_to_tweet_id": 17656.0,
+    "response_tweet_id": "17926,17925,17927",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18119,
+    "customer_handle": "@120030",
+    "customer_text": "@AmazonHelp I have filled the form but I don't expect anything concrete to happen besides paying lip-service. No one comes back to say why this happens",
+    "created_at": "Wed Nov 01 05:37:57 +0000 2017",
+    "in_response_to_tweet_id": 18118.0,
+    "response_tweet_id": "18121",
+    "agent_reply_id": 18121,
+    "agent_reply_text": "@120030 Thank you for confirming, we are looking into it and will get back to you soon with an update. ^SI"
+  },
+  {
+    "inbound_tweet_id": 18122,
+    "customer_handle": "@120030",
+    "customer_text": "@AmazonHelp With @115850 Wonders will never cease! Now, with respect to my 'DELIVERED' item, i have received the following sms: ...1/n",
+    "created_at": "Wed Nov 01 07:59:01 +0000 2017",
+    "in_response_to_tweet_id": 18121.0,
+    "response_tweet_id": "18126,18127",
+    "agent_reply_id": 18126,
+    "agent_reply_text": "@120030 Please don't provide your order details, we consider it to be personal information. Our page is visible to the public.2/2^SY"
+  },
+  {
+    "inbound_tweet_id": 18128,
+    "customer_handle": "@120030",
+    "customer_text": "@AmazonHelp 24 to 48 hours 2resolve.But WTH! First,Amazon says 'Delivered' then,says 'Item could not be delivered,as there was no one 2accept delivery'",
+    "created_at": "Wed Nov 01 08:43:37 +0000 2017",
+    "in_response_to_tweet_id": 18127.0,
+    "response_tweet_id": "18129,18130",
+    "agent_reply_id": 18129,
+    "agent_reply_text": "@120030 received your revert and we'll reach out to you soon. (2/2) ^GK"
+  },
+  {
+    "inbound_tweet_id": 18123,
+    "customer_handle": "@120030",
+    "customer_text": "@AmazonHelp This has become a joke, now. Only, I don't feel like laughing.",
+    "created_at": "Wed Nov 01 08:07:05 +0000 2017",
+    "in_response_to_tweet_id": 18121.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18124,
+    "customer_handle": "@120030",
+    "customer_text": "@AmazonHelp could not be delivered as no one was available to receive it.... 3/n",
+    "created_at": "Wed Nov 01 07:59:52 +0000 2017",
+    "in_response_to_tweet_id": 18121.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18125,
+    "customer_handle": "@120030",
+    "customer_text": "@AmazonHelp The package will be returned to us within 5 business days after two unsuccessful delivery attempts. ...4/4 WTF! NO DELIVERY ATTEMPT MADE",
+    "created_at": "Wed Nov 01 08:00:48 +0000 2017",
+    "in_response_to_tweet_id": 18121.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18120,
+    "customer_handle": "@120030",
+    "customer_text": "I'm facing more bullshitting by @115850 Another package of mine is shown 'delivered' yesterday @AmazonHelp Somethings wrong at amazon...",
+    "created_at": "Wed Nov 01 05:12:52 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "18118,18131,18132",
+    "agent_reply_id": 18118,
+    "agent_reply_text": "@120030 Apologies for the mix-up.I\u2019d like to help you; please fill this form: https://t.co/beaaDm0muc and I\u2019ll contact you soon.^SC"
+  },
+  {
+    "inbound_tweet_id": 18134,
+    "customer_handle": "@120031",
+    "customer_text": "@AmazonHelp HEY, I have 30 packages that need to be refunded on nov 5th which is the estimated shipping time. fake tracking. never shipped.",
+    "created_at": "Wed Nov 01 05:19:14 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "18133",
+    "agent_reply_id": 18133,
+    "agent_reply_text": "@120031 Are the packages sold/fulfilled by Amazon or a third-party seller? That info can be found here: https://t.co/Y5jpI9gRhE ^SH"
+  },
+  {
+    "inbound_tweet_id": 18136,
+    "customer_handle": "@120032",
+    "customer_text": "@AmazonHelp What is the response. I am yet to get a call from customer care",
+    "created_at": "Wed Nov 01 05:37:52 +0000 2017",
+    "in_response_to_tweet_id": 18135.0,
+    "response_tweet_id": "18138",
+    "agent_reply_id": 18138,
+    "agent_reply_text": "@120032 Please respond to our email or request a call back through the same mail so we could reach out to you. ^JC"
+  },
+  {
+    "inbound_tweet_id": 18139,
+    "customer_handle": "@120032",
+    "customer_text": "@AmazonHelp Have already shared my registered mobile no. 9673101122, but I m currently contactable on 9818601122",
+    "created_at": "Wed Nov 01 06:11:05 +0000 2017",
+    "in_response_to_tweet_id": 18138.0,
+    "response_tweet_id": "18140,18141,18142",
+    "agent_reply_id": 18141,
+    "agent_reply_text": "@120032 Please don't provide your order details, we consider it to be personal info. Our page is visible to the public.  2/2^VH"
+  },
+  {
+    "inbound_tweet_id": 18140,
+    "customer_handle": "@120032",
+    "customer_text": "@AmazonHelp My email address is __email__",
+    "created_at": "Wed Nov 01 06:12:00 +0000 2017",
+    "in_response_to_tweet_id": 18139.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18143,
+    "customer_handle": "@120032",
+    "customer_text": "@AmazonHelp If nothing happens then I will put on FB also",
+    "created_at": "Wed Nov 01 06:21:19 +0000 2017",
+    "in_response_to_tweet_id": 18141.0,
+    "response_tweet_id": "18144,18145",
+    "agent_reply_id": 18144,
+    "agent_reply_text": "@120032 here: https://t.co/beaaDm0muc and we'll reach out to you. (2/2) ^GK"
+  },
+  {
+    "inbound_tweet_id": 18146,
+    "customer_handle": "@120032",
+    "customer_text": "@AmazonHelp Have shared the details in the above linked which was shared by u. Need early resolution from u.",
+    "created_at": "Wed Nov 01 09:21:53 +0000 2017",
+    "in_response_to_tweet_id": 18144.0,
+    "response_tweet_id": "18147",
+    "agent_reply_id": 18147,
+    "agent_reply_text": "@120032 Thanks for sharing, Kamlesh. We'll check and get back to you at the earliest.^AR"
+  },
+  {
+    "inbound_tweet_id": 18149,
+    "customer_handle": "@120034",
+    "customer_text": "@AmazonHelp Called USPS for delivery info. Estimated hold time for the next representative is FIFTY MINUTES. As YOUR customer, I shouldn't be doing this",
+    "created_at": "Wed Nov 01 20:26:33 +0000 2017",
+    "in_response_to_tweet_id": 18148.0,
+    "response_tweet_id": "18151",
+    "agent_reply_id": 18151,
+    "agent_reply_text": "@120034 We're able to contact the carrier on your behalf using the link ^LH provided above. ^KP"
+  },
+  {
+    "inbound_tweet_id": 18152,
+    "customer_handle": "@120034",
+    "customer_text": "@AmazonHelp Yes, I've sent an email through your link.",
+    "created_at": "Wed Nov 01 20:45:29 +0000 2017",
+    "in_response_to_tweet_id": 18151.0,
+    "response_tweet_id": "18153",
+    "agent_reply_id": 18153,
+    "agent_reply_text": "@120034 When did you contact us? If you've received a reply, what insight were we able to provide? ^AR"
+  },
+  {
+    "inbound_tweet_id": 18150,
+    "customer_handle": "@120034",
+    "customer_text": "@AmazonHelp I gave it another day and still not delivered. \ud83d\ude21",
+    "created_at": "Wed Nov 01 04:21:26 +0000 2017",
+    "in_response_to_tweet_id": 18154.0,
+    "response_tweet_id": "18148",
+    "agent_reply_id": 18148,
+    "agent_reply_text": "@120034 I'm so sorry for the trouble. If you have a moment, please contact us by phone or chat here: https://t.co/hApLpMlfHN. ^LH"
+  },
+  {
+    "inbound_tweet_id": 18155,
+    "customer_handle": "@120034",
+    "customer_text": "@AmazonHelp No, is USPS even contactable, esp after hours?  I'll wait and see what happens tomorrow. Two delivery mishaps this month - one UPS, one USPS",
+    "created_at": "Tue Oct 31 00:30:12 +0000 2017",
+    "in_response_to_tweet_id": 18156.0,
+    "response_tweet_id": "18154",
+    "agent_reply_id": 18154,
+    "agent_reply_text": "@120034 Unfortunately not. However, you can check the carrier website for more detailed tracking information. Please keep us posted. ^SY"
+  },
+  {
+    "inbound_tweet_id": 18157,
+    "customer_handle": "@120034",
+    "customer_text": "@AmazonHelp USPS is the carrier. They are usually here 10 am-12 pm, so I don't know what's going on.",
+    "created_at": "Tue Oct 31 00:17:05 +0000 2017",
+    "in_response_to_tweet_id": 18158.0,
+    "response_tweet_id": "18156",
+    "agent_reply_id": 18156,
+    "agent_reply_text": "@120034 That's really weird! Have you contacted them to see if they could provide any insight? ^AJ"
+  },
+  {
+    "inbound_tweet_id": 18159,
+    "customer_handle": "@120034",
+    "customer_text": "Really unhappy, @AmazonHelp. I'm sitting here at home all day and I got this text a few minutes ago. https://t.co/w35PxLWI0K",
+    "created_at": "Tue Oct 31 00:09:04 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "18158",
+    "agent_reply_id": 18158,
+    "agent_reply_text": "@120034 Hello! I'm really sorry for the frustration. Who was the carrier for the order? You can find that here: https://t.co/Y5jpI9gRhE ^AJ"
+  },
+  {
+    "inbound_tweet_id": 18161,
+    "customer_handle": "@120035",
+    "customer_text": "@AmazonHelp Do I have to share email thread of how they are treating to me.",
+    "created_at": "Wed Nov 01 05:23:16 +0000 2017",
+    "in_response_to_tweet_id": 18160.0,
+    "response_tweet_id": "18163",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18163,
+    "customer_handle": "@120035",
+    "customer_text": "@AmazonHelp They are not solving my problem from last one month I'm in contact with them @115850 \n\nYou have to do something now",
+    "created_at": "Wed Nov 01 05:29:32 +0000 2017",
+    "in_response_to_tweet_id": 18161.0,
+    "response_tweet_id": "18164",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18164,
+    "customer_handle": "@120035",
+    "customer_text": "@AmazonHelp @115850 Please update me asap, if you are going to help or not?\nI'm really fed up now and need solution asap. Give me my account access else refund",
+    "created_at": "Wed Nov 01 05:35:13 +0000 2017",
+    "in_response_to_tweet_id": 18163.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18162,
+    "customer_handle": "@120035",
+    "customer_text": "@AmazonHelp Please help\nYour team is not providing support and information properly. They are just ingnoring my request. I need access. https://t.co/VqK97kzHrt",
+    "created_at": "Wed Nov 01 05:14:31 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "18160,18165",
+    "agent_reply_id": 18160,
+    "agent_reply_text": "@120035 I'm sure you will soon receive a reply from our Account Specialist team with an update. (2/2) ^SI"
+  },
+  {
+    "inbound_tweet_id": 18166,
+    "customer_handle": "@120035",
+    "customer_text": "@AmazonHelp Then who will be there to regain the access of my account.\n\nIf you can't then just refund my money back and I'll go for someone else.",
+    "created_at": "Wed Nov 01 05:22:19 +0000 2017",
+    "in_response_to_tweet_id": 18165.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18168,
+    "customer_handle": "@120036",
+    "customer_text": "@AmazonHelp Ah okay, thank you so much!",
+    "created_at": "Wed Nov 01 05:23:03 +0000 2017",
+    "in_response_to_tweet_id": 18167.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18169,
+    "customer_handle": "@120036",
+    "customer_text": "@AmazonHelp Accidentally bought Amazon Prime when I misread it for the free month trial, and I wanted to know if theres any way for a refund",
+    "created_at": "Wed Nov 01 05:12:17 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "18167",
+    "agent_reply_id": 18167,
+    "agent_reply_text": "@120036 You can cancel your Prime membership and receive a refund if you haven't used the benefits here: https://t.co/H4QaQR9DYf  ^SE"
+  },
+  {
+    "inbound_tweet_id": 18171,
+    "customer_handle": "@120030",
+    "customer_text": "@AmazonHelp Yes. I have sent a mail. I have sent a mail each time this nonsense has occurred, but it keeps happening...",
+    "created_at": "Wed Nov 01 05:25:59 +0000 2017",
+    "in_response_to_tweet_id": 18170.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18131,
+    "customer_handle": "@120030",
+    "customer_text": "@115850 @AmazonHelp 'Handed over directly to Customer' when I'd left this place at 6:00 pm &amp; never returned for the night. Trust @115850 to do the impossible",
+    "created_at": "Wed Nov 01 05:14:22 +0000 2017",
+    "in_response_to_tweet_id": 18120.0,
+    "response_tweet_id": "18170",
+    "agent_reply_id": 18170,
+    "agent_reply_text": "@120030 I'm sorry, this was never our intention. Did you report this to our customer service team here: https://t.co/vlvfJr4nN9. ^SI"
+  },
+  {
+    "inbound_tweet_id": 18173,
+    "customer_handle": "@120037",
+    "customer_text": "@AmazonHelp Package yet to be received. The delivery boy must\u2019ve signed himself or delivered to someone else. Also if possible send me photo of the sign",
+    "created_at": "Wed Nov 01 05:13:02 +0000 2017",
+    "in_response_to_tweet_id": 18174.0,
+    "response_tweet_id": "18172",
+    "agent_reply_id": 18172,
+    "agent_reply_text": "@120037 I'm sorry about the conflicting tracking update. Kindly share your details here: https://t.co/beaaDm0muc ^GK"
+  },
+  {
+    "inbound_tweet_id": 18174,
+    "customer_handle": "@120037",
+    "customer_text": "@AmazonHelp Your customer service has reverted saying that apparently the package has been delivered and signed by receipt my yesterday. Not true.",
+    "created_at": "Wed Nov 01 05:11:17 +0000 2017",
+    "in_response_to_tweet_id": 18176.0,
+    "response_tweet_id": "18175,18173",
+    "agent_reply_id": 18175,
+    "agent_reply_text": "@120037 Sorry for the trouble with the delivery. Kindly drop in your details here: https://t.co/2nQ2CFxoWn and we'll work on it.^NS"
+  },
+  {
+    "inbound_tweet_id": 18177,
+    "customer_handle": "@120037",
+    "customer_text": "@115850 @AmazonHelp Does you app have a feedback option \u201cproduct not delivered\u201d ?",
+    "created_at": "Tue Oct 31 15:48:59 +0000 2017",
+    "in_response_to_tweet_id": 18178.0,
+    "response_tweet_id": "18176",
+    "agent_reply_id": 18176,
+    "agent_reply_text": "@120037 Sorry for the hassle. Please report this to our support team here: https://t.co/vlvfJr4nN9 and we'll check this. ^HN"
+  },
+  {
+    "inbound_tweet_id": 18178,
+    "customer_handle": "@120037",
+    "customer_text": "@115850 i have received a message that product has been delivered whereas it hasn\u2019t been delivered. Second time happened @AmazonHelp",
+    "created_at": "Tue Oct 31 15:47:02 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "18177,18179",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18181,
+    "customer_handle": "@120035",
+    "customer_text": "@AmazonHelp Yes, that email is asking for my bank details not sure why but I responded back to them. Still its on hold\n\nPlease help",
+    "created_at": "Wed Nov 01 05:19:11 +0000 2017",
+    "in_response_to_tweet_id": 18180.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18185,
+    "customer_handle": "@120037",
+    "customer_text": "@AmazonHelp I am not going to do anything more. If package not recd by nov 8,2017 then I will revert",
+    "created_at": "Wed Nov 01 05:15:49 +0000 2017",
+    "in_response_to_tweet_id": 18175.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18187,
+    "customer_handle": "@120039",
+    "customer_text": "@AmazonHelp They have promised me that my cashback of INR 1500 will be received by 5th November, hope this doesn't repeat in future. Thanks #AmazonIndia",
+    "created_at": "Wed Nov 01 19:17:55 +0000 2017",
+    "in_response_to_tweet_id": 18186.0,
+    "response_tweet_id": "18189",
+    "agent_reply_id": 18189,
+    "agent_reply_text": "@120039 I get your concern, Abhilash. Cash back shall be processed as per the timelines shared with you. Rest assured. ^SV"
+  },
+  {
+    "inbound_tweet_id": 18190,
+    "customer_handle": "@120039",
+    "customer_text": "@AmazonHelp @115850  @120040\nEven after your team's promise, I have not received my cashback of INR1500 before deadline given by them.",
+    "created_at": "Sun Nov 05 03:55:02 +0000 2017",
+    "in_response_to_tweet_id": 18189.0,
+    "response_tweet_id": "18191,18192,18193",
+    "agent_reply_id": 18191,
+    "agent_reply_text": "@120039 Please reply to the email for further assistance on it. 2/2 ^RW"
+  },
+  {
+    "inbound_tweet_id": 18193,
+    "customer_handle": "@120039",
+    "customer_text": "@AmazonHelp @115850 @120040 Wow this is great, now again i am getting mail that max eligible cashback is INR450. What the heck is wrong with Amazon support. @115850",
+    "created_at": "Sun Nov 05 12:42:22 +0000 2017",
+    "in_response_to_tweet_id": 18190.0,
+    "response_tweet_id": "18194,18195",
+    "agent_reply_id": 18194,
+    "agent_reply_text": "@120039 Kindly reply to the email that we've sent. We'll check this for you. ^SG"
+  },
+  {
+    "inbound_tweet_id": 18195,
+    "customer_handle": "@120039",
+    "customer_text": "@AmazonHelp @115850 @120040 I have mailed 3-4 times after that but i am still getting the same standard email, exact same mail",
+    "created_at": "Sun Nov 05 13:03:17 +0000 2017",
+    "in_response_to_tweet_id": 18193.0,
+    "response_tweet_id": "18196,18197",
+    "agent_reply_id": 18196,
+    "agent_reply_text": "@120039 You can add your insight by writing back to the e-mail sent by our team. We'll reply to the same. ^MP 2/2"
+  },
+  {
+    "inbound_tweet_id": 18198,
+    "customer_handle": "@120039",
+    "customer_text": "@AmazonHelp On 1st Nov your team agreed in mail for cashback of INR1500 and now someone else from your team is saying max INR450. This Is cheating.",
+    "created_at": "Sun Nov 05 13:32:25 +0000 2017",
+    "in_response_to_tweet_id": 18197.0,
+    "response_tweet_id": "18200",
+    "agent_reply_id": 18200,
+    "agent_reply_text": "@120039 Kindly reply to the email sent by us for further assistance on this issue. ^RI"
+  },
+  {
+    "inbound_tweet_id": 18199,
+    "customer_handle": "@120039",
+    "customer_text": "@AmazonHelp @120040 #AmazonIndia  Expecting your customers to take screenshots of every offer is way too much. I trusted Amazon but the way they treat their customers now a days is ridiculous. Now i don't want any cashback and  credits of Kindle account but treat your customers properly.",
+    "created_at": "Thu Nov 09 04:51:14 +0000 2017",
+    "in_response_to_tweet_id": 18197.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 18188,
+    "customer_handle": "@120039",
+    "customer_text": "@AmazonHelp I have submitted all the required details, please do the necessary else i'll have to go to consumer forum this time :(",
+    "created_at": "Wed Nov 01 05:09:25 +0000 2017",
+    "in_response_to_tweet_id": 18201.0,
+    "response_tweet_id": "18186",
+    "agent_reply_id": 18186,
+    "agent_reply_text": "@120039 Thanks for sharing your details. We'll get in touch with you soon. ^AK"
+  },
+  {
+    "inbound_tweet_id": 18202,
+    "customer_handle": "@120039",
+    "customer_text": "@AmazonHelp #AmazonIndia ordered echo plus on 6th October, till now have not recieved any cashback. Now customer care is saying i am eligible for (1/2)",
+    "created_at": "Wed Nov 01 04:21:27 +0000 2017",
+    "in_response_to_tweet_id": 18204.0,
+    "response_tweet_id": "18203,18201",
+    "agent_reply_id": 18201,
+    "agent_reply_text": "@120039 That's strange. Let me check this out for you. Please drop your details here: https://t.co/rgb8rZzIXD (1/2) ^VM"
+  },
+  {
+    "inbound_tweet_id": 19427,
+    "customer_handle": "@120315",
+    "customer_text": "@AmazonHelp No use from your link or Amazon app support call or chat. Please see the order details.just telling us to wait.Not updating the status also. https://t.co/Uwp0eOu6Ia",
+    "created_at": "Wed Nov 01 06:46:44 +0000 2017",
+    "in_response_to_tweet_id": 19426.0,
+    "response_tweet_id": "19429,19430,19431",
+    "agent_reply_id": 19429,
+    "agent_reply_text": "@120315 Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. (2/2) ^ZH"
+  },
+  {
+    "inbound_tweet_id": 19431,
+    "customer_handle": "@120315",
+    "customer_text": "@AmazonHelp Anyway you are redirecting the above link to your customer support..What is the use of it?? Same reply from them...",
+    "created_at": "Wed Nov 01 09:25:14 +0000 2017",
+    "in_response_to_tweet_id": 19427.0,
+    "response_tweet_id": "19432",
+    "agent_reply_id": 19432,
+    "agent_reply_text": "@120315 Filling in your details wouldn't lead you to our support team, Uday. Please do the same, we'll reach out to you personally. ^JC"
+  },
+  {
+    "inbound_tweet_id": 19434,
+    "customer_handle": "@120316",
+    "customer_text": "@AmazonHelp Daily same msg coming but do not delivered",
+    "created_at": "Wed Nov 01 06:44:04 +0000 2017",
+    "in_response_to_tweet_id": 19433.0,
+    "response_tweet_id": "19436,19437",
+    "agent_reply_id": 19436,
+    "agent_reply_text": "@120316 we have missed on the estimated delivery date? 2/2 ^SB"
+  },
+  {
+    "inbound_tweet_id": 19435,
+    "customer_handle": "@120316",
+    "customer_text": "@AmazonHelp Arriving Today: Your package with Dell KM117 Wireless Keyboard Mouse is out for delivery.Amt: Rs.1,399. https://t.co/JuXkvDFU1Q",
+    "created_at": "Wed Nov 01 06:31:11 +0000 2017",
+    "in_response_to_tweet_id": 19438.0,
+    "response_tweet_id": "19433",
+    "agent_reply_id": 19433,
+    "agent_reply_text": "@120316 When the product is out for delivery, it will be delivered before 8 pm. Kindly wait until then. Do keep us posted. ^AK"
+  },
+  {
+    "inbound_tweet_id": 19441,
+    "customer_handle": "@120317",
+    "customer_text": "@AmazonHelp Ok thank for helping.",
+    "created_at": "Wed Nov 01 07:57:22 +0000 2017",
+    "in_response_to_tweet_id": 19440.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 19442,
+    "customer_handle": "@120317",
+    "customer_text": "@AmazonHelp Ok thank u",
+    "created_at": "Wed Nov 01 06:33:35 +0000 2017",
+    "in_response_to_tweet_id": 19443.0,
+    "response_tweet_id": "19440",
+    "agent_reply_id": 19440,
+    "agent_reply_text": "@120317 You're welcome, Aleema. Do let us know if you need any further assistance. ^SY"
+  },
+  {
+    "inbound_tweet_id": 19447,
+    "customer_handle": "@120318",
+    "customer_text": "@AmazonHelp Name of account -avaneesh Kumar chaubey \nContact number -8269451504\nOrder number - 405-3324870-8447534\nProduct - titan watch",
+    "created_at": "Wed Nov 01 06:46:00 +0000 2017",
+    "in_response_to_tweet_id": 19446.0,
+    "response_tweet_id": "19449,19450",
+    "agent_reply_id": 19449,
+    "agent_reply_text": "@120318 Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. (2/2) ^ZH"
+  },
+  {
+    "inbound_tweet_id": 19451,
+    "customer_handle": "@120318",
+    "customer_text": "@AmazonHelp Aap logo ki complain national consumer forum me bhi Jr di hai. Complain no is - 483856",
+    "created_at": "Wed Nov 01 06:58:37 +0000 2017",
+    "in_response_to_tweet_id": 19449.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 19452,
+    "customer_handle": "@120318",
+    "customer_text": "@AmazonHelp Sorry sir but aap logo ne aaj ki date di thi refund krne ki.... Pr abhi tak hua nhi....",
+    "created_at": "Wed Nov 01 06:56:37 +0000 2017",
+    "in_response_to_tweet_id": 19449.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 19461,
+    "customer_handle": "@120322",
+    "customer_text": "@AmazonHelp I did it already~",
+    "created_at": "Wed Nov 01 07:00:27 +0000 2017",
+    "in_response_to_tweet_id": 19460.0,
+    "response_tweet_id": "19463",
+    "agent_reply_id": 19463,
+    "agent_reply_text": "@120322 W/o posting personal info, what is the issue with the orders? What was advised when you contacted? ^PK"
+  },
+  {
+    "inbound_tweet_id": 19464,
+    "customer_handle": "@120322",
+    "customer_text": "@AmazonHelp Scam, just scam, sellers don't send out my products~ 6 orders. so bad~",
+    "created_at": "Wed Nov 01 07:36:24 +0000 2017",
+    "in_response_to_tweet_id": 19463.0,
+    "response_tweet_id": "19465",
+    "agent_reply_id": 19465,
+    "agent_reply_text": "@120322 I'm sorry to hear that. What were you advised when you contacted us by phone/chat? ^DC"
+  },
+  {
+    "inbound_tweet_id": 19466,
+    "customer_handle": "@120322",
+    "customer_text": "@AmazonHelp via Twitter and you people ask me to fill one form, I did and wait to see what happen next~ thanks for asking~",
+    "created_at": "Wed Nov 01 07:53:19 +0000 2017",
+    "in_response_to_tweet_id": 19465.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 19462,
+    "customer_handle": "@120322",
+    "customer_text": "@AmazonHelp 6 order: 113-2039762-2382613\u3001113-2511164-7606668\u3001113-7544238-7484225\u3001114-5454499-3702646\u3001114-9012608-0575407\u3001114-9109336-9221053",
+    "created_at": "Wed Nov 01 06:32:04 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "19460",
+    "agent_reply_id": 19460,
+    "agent_reply_text": "@120322 Hi, please don't share order numbers here as this page is public. Please contact us; https://t.co/hApLpMlfHN to look into this. ^JJ"
+  },
+  {
+    "inbound_tweet_id": 19468,
+    "customer_handle": "@120322",
+    "customer_text": "@AmazonHelp .com",
+    "created_at": "Wed Nov 01 06:42:06 +0000 2017",
+    "in_response_to_tweet_id": 19467.0,
+    "response_tweet_id": "19470",
+    "agent_reply_id": 19470,
+    "agent_reply_text": "@120322 Apologies, have you looked into filling an A-Z Claim: https://t.co/OgRmc6aXUX? ^JJ"
+  },
+  {
+    "inbound_tweet_id": 19471,
+    "customer_handle": "@120322",
+    "customer_text": "@AmazonHelp I can't find File/View Claim.",
+    "created_at": "Wed Nov 01 06:59:49 +0000 2017",
+    "in_response_to_tweet_id": 19470.0,
+    "response_tweet_id": "19472",
+    "agent_reply_id": 19472,
+    "agent_reply_text": "@120322 Hi please contact us here: https://t.co/R55eEQwSEs and a specialist will look into it for you. ^AS"
+  },
+  {
+    "inbound_tweet_id": 19473,
+    "customer_handle": "@120322",
+    "customer_text": "@AmazonHelp Hi, I fill your form already, thanks~",
+    "created_at": "Wed Nov 01 07:35:28 +0000 2017",
+    "in_response_to_tweet_id": 19472.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 19469,
+    "customer_handle": "@120322",
+    "customer_text": "@AmazonHelp I was scammed. 6 orders, all sellers are gone and nothing send to me, how could I do now? how to stop my prime membership?",
+    "created_at": "Wed Nov 01 06:28:33 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "19467",
+    "agent_reply_id": 19467,
+    "agent_reply_text": "@120322 sorry to hear that, from what Amazon marketplace were you shopping from? .com, .co.uk, .es etc? ^AS"
+  },
+  {
+    "inbound_tweet_id": 19475,
+    "customer_handle": "@120323",
+    "customer_text": "@AmazonHelp HorrbleService\ud83d\udc7fBooked #Redmi4 on 16.10.17.  Neither phn recd nor refnd. complnt alrdy made.  No response at all. Fed up wd amzon",
+    "created_at": "Wed Nov 01 06:24:08 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "19474",
+    "agent_reply_id": 19474,
+    "agent_reply_text": "@120323 I'm sorry for the trouble with your order. Have you reached out to our support team from here: https://t.co/2t6DQoUmNZ? ^RW"
+  },
+  {
+    "inbound_tweet_id": 19479,
+    "customer_handle": "@120324",
+    "customer_text": "@AmazonHelp I wuld lyk 2 knw jus 1 simpl&amp; straight answer. Hw mny times u ppl wl ask d same qstn again&amp;again.Coz m juss sick of answring over&amp;over again",
+    "created_at": "Wed Nov 01 06:44:08 +0000 2017",
+    "in_response_to_tweet_id": 19478.0,
+    "response_tweet_id": "19480",
+    "agent_reply_id": 19480,
+    "agent_reply_text": "@120324 We don't have access to your account over Twitter. Please share your details in the link and we'll be sure to help you. ^ZH"
+  },
+  {
+    "inbound_tweet_id": 19481,
+    "customer_handle": "@120324",
+    "customer_text": "@AmazonHelp sent twice. Ask me if something else you need.",
+    "created_at": "Wed Nov 01 07:08:15 +0000 2017",
+    "in_response_to_tweet_id": 19480.0,
+    "response_tweet_id": "19482",
+    "agent_reply_id": 19482,
+    "agent_reply_text": "@120324 I appreciate your understanding in this regard. We've received your details and we'll get back to you at the earliest. ^SC"
+  },
+  {
+    "inbound_tweet_id": 19484,
+    "customer_handle": "@120325",
+    "customer_text": "@AmazonHelp I have reported the same..Hoping for a genuine product in perfect condition to be delivered now.",
+    "created_at": "Wed Nov 01 10:01:08 +0000 2017",
+    "in_response_to_tweet_id": 19483.0,
+    "response_tweet_id": "19486",
+    "agent_reply_id": 19486,
+    "agent_reply_text": "@120325 In that case, please fill out this form: https://t.co/GIJyeYqKE0 and we'll look into this for you. ^AM"
+  },
+  {
+    "inbound_tweet_id": 20027,
+    "customer_handle": "@120403",
+    "customer_text": "@AmazonHelp Nope. Was out for delivery by 9pm. Never came. Now just says \"new estimated delivery nov 2\"",
+    "created_at": "Wed Nov 01 07:00:00 +0000 2017",
+    "in_response_to_tweet_id": 20026.0,
+    "response_tweet_id": "20029",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20029,
+    "customer_handle": "@120403",
+    "customer_text": "@AmazonHelp Update was sent at 930 pm. Ggs",
+    "created_at": "Wed Nov 01 07:00:38 +0000 2017",
+    "in_response_to_tweet_id": 20027.0,
+    "response_tweet_id": "20030",
+    "agent_reply_id": 20030,
+    "agent_reply_text": "@120403 Please reach out to us directly here: https://t.co/hApLpMlfHN and we can look into this further. ^PK"
+  },
+  {
+    "inbound_tweet_id": 20032,
+    "customer_handle": "@120404",
+    "customer_text": "@AmazonHelp Thank u.......done",
+    "created_at": "Wed Nov 01 06:53:01 +0000 2017",
+    "in_response_to_tweet_id": 20033.0,
+    "response_tweet_id": "20031",
+    "agent_reply_id": 20031,
+    "agent_reply_text": "@120404 You're most welcome. Thanks for keeping us posted. ^AB"
+  },
+  {
+    "inbound_tweet_id": 20034,
+    "customer_handle": "@120404",
+    "customer_text": "@AmazonHelp how do i delete my old credit cards from the list",
+    "created_at": "Wed Nov 01 06:36:29 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "20033,20035",
+    "agent_reply_id": 20033,
+    "agent_reply_text": "@120404 please check this link here: https://t.co/nGMwhpjmNo (2/2) ^KA"
+  },
+  {
+    "inbound_tweet_id": 20041,
+    "customer_handle": "@120322",
+    "customer_text": "@AmazonHelp how to stop my prime membership, since i was scammed and you do nothing to me, i need to cancel my membership.",
+    "created_at": "Wed Nov 01 06:44:35 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "20040",
+    "agent_reply_id": 20040,
+    "agent_reply_text": "@120322 Which Amazon website did this happen on? ^KM"
+  },
+  {
+    "inbound_tweet_id": 20051,
+    "customer_handle": "@120407",
+    "customer_text": "@AmazonHelp Amazon has encountered an error. Please try again shortly. This message appears every time I attempt to change my default list for days now.",
+    "created_at": "Wed Nov 01 06:58:33 +0000 2017",
+    "in_response_to_tweet_id": 20050.0,
+    "response_tweet_id": "20053",
+    "agent_reply_id": 20053,
+    "agent_reply_text": "@120407 My apologies Christopher. Have you tried from a non mobile device? ^DC"
+  },
+  {
+    "inbound_tweet_id": 20052,
+    "customer_handle": "@120407",
+    "customer_text": "@AmazonHelp cannot change default wishlist in any app or browser regardless of mobile device. log out/in does not fix. Error message. Advise",
+    "created_at": "Wed Nov 01 06:36:44 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "20050",
+    "agent_reply_id": 20050,
+    "agent_reply_text": "@120407 Sorry to hear that. What error message are you getting? ^RS"
+  },
+  {
+    "inbound_tweet_id": 20420,
+    "customer_handle": "@120462",
+    "customer_text": "@AmazonHelp okay!",
+    "created_at": "Wed Nov 01 07:09:33 +0000 2017",
+    "in_response_to_tweet_id": 20419.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20423,
+    "customer_handle": "@120463",
+    "customer_text": "@AmazonHelp are brighton tickets available today for the morrissey presale? they aren\u2019t on the website and i got worried",
+    "created_at": "Wed Nov 01 06:50:18 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "20422,20424",
+    "agent_reply_id": 20422,
+    "agent_reply_text": "@120463 Pls reach out here so we can check this for you \nhttps://t.co/lnp3A1Qpxe ^KM"
+  },
+  {
+    "inbound_tweet_id": 20431,
+    "customer_handle": "@120466",
+    "customer_text": "@AmazonHelp When will Madam Secretary S4 will be available on Amazon Prime Video India?",
+    "created_at": "Wed Nov 01 06:36:42 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "20430",
+    "agent_reply_id": 20430,
+    "agent_reply_text": "@120466 Currently, we do not have an update on this. Please stay tuned. ^HK"
+  },
+  {
+    "inbound_tweet_id": 20433,
+    "customer_handle": "@120467",
+    "customer_text": "@AmazonHelp That I do daily. Can't the request be prioritized?",
+    "created_at": "Wed Nov 01 07:20:30 +0000 2017",
+    "in_response_to_tweet_id": 20432.0,
+    "response_tweet_id": "20435,20436",
+    "agent_reply_id": 20435,
+    "agent_reply_text": "@120467 As informed earlier, we will forward your request. However, I request you to wait for it. (2/2)^HR"
+  },
+  {
+    "inbound_tweet_id": 20438,
+    "customer_handle": "@120468",
+    "customer_text": "@AmazonHelp The item doesn't do what I need it to do.",
+    "created_at": "Wed Nov 01 07:16:44 +0000 2017",
+    "in_response_to_tweet_id": 20437.0,
+    "response_tweet_id": "20440",
+    "agent_reply_id": 20440,
+    "agent_reply_text": "@120468 Please reach out to us directly here: https://t.co/hApLpMlfHN and we can help arrange a return for you. ^PK"
+  },
+  {
+    "inbound_tweet_id": 20442,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp Please call back me...",
+    "created_at": "Wed Nov 01 07:28:29 +0000 2017",
+    "in_response_to_tweet_id": 20441.0,
+    "response_tweet_id": "20444,20445",
+    "agent_reply_id": 20444,
+    "agent_reply_text": "@120469 on 'call me' option and a call shall be connected with our support team. 2/2 ^SH"
+  },
+  {
+    "inbound_tweet_id": 20446,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp No option of call with customer care",
+    "created_at": "Thu Nov 02 04:45:37 +0000 2017",
+    "in_response_to_tweet_id": 20444.0,
+    "response_tweet_id": "20448",
+    "agent_reply_id": 20448,
+    "agent_reply_text": "@120469 If you're unable to arrange a call back, kindly contact our support team using the chat/email option and we'll help you. ^ZH"
+  },
+  {
+    "inbound_tweet_id": 20449,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp I am already still awaiting since 12.10.2017 for your solution. But no any satisfied resolution provide from Amazon side.",
+    "created_at": "Thu Nov 02 12:09:04 +0000 2017",
+    "in_response_to_tweet_id": 20448.0,
+    "response_tweet_id": "20450",
+    "agent_reply_id": 20450,
+    "agent_reply_text": "@120469 Apologies for the ordeal Kaushal. Please share your details here: https://t.co/GIJyeYqKE0 and I'll get back to you. ^HN"
+  },
+  {
+    "inbound_tweet_id": 20451,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp On every reply share your details..",
+    "created_at": "Thu Nov 02 12:29:58 +0000 2017",
+    "in_response_to_tweet_id": 20450.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20452,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp How many time I send detail.??",
+    "created_at": "Thu Nov 02 12:29:35 +0000 2017",
+    "in_response_to_tweet_id": 20450.0,
+    "response_tweet_id": "20454",
+    "agent_reply_id": 20454,
+    "agent_reply_text": "@120469 Sorry for the confusion. Please reply to the email sent by our team earlier &amp; we'll update you on this. ^RS"
+  },
+  {
+    "inbound_tweet_id": 20455,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp I already reply",
+    "created_at": "Thu Nov 02 12:45:20 +0000 2017",
+    "in_response_to_tweet_id": 20454.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20453,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp What is this..??",
+    "created_at": "Thu Nov 02 12:30:15 +0000 2017",
+    "in_response_to_tweet_id": 20450.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20447,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp Now I am totally upset with Amazon Service",
+    "created_at": "Thu Nov 02 04:46:09 +0000 2017",
+    "in_response_to_tweet_id": 20444.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20443,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp How many more long time I will wait for solution...?? I am not able to call contact with Amazon care",
+    "created_at": "Wed Nov 01 06:32:31 +0000 2017",
+    "in_response_to_tweet_id": 20456.0,
+    "response_tweet_id": "20441",
+    "agent_reply_id": 20441,
+    "agent_reply_text": "@120469 You may request an immediate call back from us here: https://t.co/vlvfJr4nN9. Do you see any error? ^HK"
+  },
+  {
+    "inbound_tweet_id": 20458,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp I already replied",
+    "created_at": "Sat Oct 28 06:23:01 +0000 2017",
+    "in_response_to_tweet_id": 20459.0,
+    "response_tweet_id": "20456",
+    "agent_reply_id": 20456,
+    "agent_reply_text": "@120469 Thanks for the update, we've received your reply to our correspondence. We'll get back to you at the earliest. ^SC"
+  },
+  {
+    "inbound_tweet_id": 20461,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp No any solution provide from your side and I am unable to contact with Amazon care because our call is blocked by Amazon..",
+    "created_at": "Sat Oct 28 05:41:19 +0000 2017",
+    "in_response_to_tweet_id": 20462.0,
+    "response_tweet_id": "20459",
+    "agent_reply_id": 20459,
+    "agent_reply_text": "@120469 Could you please confirm if you have replied to the email sent by us. ^VH"
+  },
+  {
+    "inbound_tweet_id": 20463,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp Since how much time I wait\nFor your action...??",
+    "created_at": "Fri Oct 27 17:19:01 +0000 2017",
+    "in_response_to_tweet_id": 20464.0,
+    "response_tweet_id": "20462",
+    "agent_reply_id": 20462,
+    "agent_reply_text": "@120469 Sorry about the stretch, Kaushal. Please reply to the email sent to you. Once we receive your reply, we'll check &amp; assist.^SV"
+  },
+  {
+    "inbound_tweet_id": 20465,
+    "customer_handle": "@120469",
+    "customer_text": "@AmazonHelp Please do necessary action against courier services",
+    "created_at": "Thu Oct 26 14:32:09 +0000 2017",
+    "in_response_to_tweet_id": 20466.0,
+    "response_tweet_id": "20464",
+    "agent_reply_id": 20464,
+    "agent_reply_text": "@120469 I understand your concern for delivery. We'll get back to you on this soon &amp; corrected actions will be taken on carrier. ^BS"
+  },
+  {
+    "inbound_tweet_id": 20471,
+    "customer_handle": "@119355",
+    "customer_text": "@AmazonHelp You talked about the Gati courier about our order",
+    "created_at": "Thu Nov 02 10:02:48 +0000 2017",
+    "in_response_to_tweet_id": 20470.0,
+    "response_tweet_id": "20472",
+    "agent_reply_id": 20472,
+    "agent_reply_text": "@119355 May I please know if you have filled your details through the link provided earlier? ^SH"
+  },
+  {
+    "inbound_tweet_id": 20473,
+    "customer_handle": "@119355",
+    "customer_text": "@AmazonHelp Yes ,maine bhar diya ha",
+    "created_at": "Thu Nov 02 10:28:36 +0000 2017",
+    "in_response_to_tweet_id": 20472.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20481,
+    "customer_handle": "@120463",
+    "customer_text": "@AmazonHelp i have :)",
+    "created_at": "Wed Nov 01 07:11:51 +0000 2017",
+    "in_response_to_tweet_id": 20480.0,
+    "response_tweet_id": "20483",
+    "agent_reply_id": 20483,
+    "agent_reply_text": "@120463 ok, and were you given some information? ^AS"
+  },
+  {
+    "inbound_tweet_id": 20485,
+    "customer_handle": "@120475",
+    "customer_text": "@AmazonHelp I already talked to your customer care. They are saying kindle prime reading is only available for US residents. I am asking why?",
+    "created_at": "Wed Nov 01 07:05:45 +0000 2017",
+    "in_response_to_tweet_id": 20484.0,
+    "response_tweet_id": "20487,20488,20489",
+    "agent_reply_id": 20487,
+    "agent_reply_text": "@120475 I have forwarded your comment as a feedback internally for a review. Appreciate your understanding. (3/3) ^SI"
+  },
+  {
+    "inbound_tweet_id": 20486,
+    "customer_handle": "@120475",
+    "customer_text": "@AmazonHelp Why Amazon.in prime members are not allowed to access kindle prime reading section? @117634 @115850 @115821",
+    "created_at": "Wed Nov 01 06:32:20 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "20484",
+    "agent_reply_id": 20484,
+    "agent_reply_text": "@120475 Please connect with us here: https://t.co/vlvfJr4nN9 and we'll help you with this. ^HK"
+  },
+  {
+    "inbound_tweet_id": 20491,
+    "customer_handle": "@120476",
+    "customer_text": "@AmazonHelp Okay. Tx. Wish to see it soon.",
+    "created_at": "Wed Nov 01 07:01:16 +0000 2017",
+    "in_response_to_tweet_id": 20490.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20743,
+    "customer_handle": "@120538",
+    "customer_text": "@AmazonHelp  please ship this today ORDER # 408-8285636-6191504",
+    "created_at": "Wed Nov 01 06:56:11 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "20744,20742,20745",
+    "agent_reply_id": 20742,
+    "agent_reply_text": "@120538 Please don't provide your order details, as we consider it to be personal information. Our Twitter page is public.\u200b ^RW"
+  },
+  {
+    "inbound_tweet_id": 20747,
+    "customer_handle": "@120539",
+    "customer_text": "@AmazonHelp non ancora: qual'\u00e8 il modo migliore per segnalarvi i disservizi di Bartolini? Grazie!",
+    "created_at": "Wed Nov 01 07:49:20 +0000 2017",
+    "in_response_to_tweet_id": 20746.0,
+    "response_tweet_id": "20749",
+    "agent_reply_id": 20749,
+    "agent_reply_text": "@120539 Puoi contattare tramite questo link: https://t.co/1L0CKp38Aw. A presto! ^CS"
+  },
+  {
+    "inbound_tweet_id": 20750,
+    "customer_handle": "@120538",
+    "customer_text": "@AmazonHelp haan MC woh toh dekh hi liya hai ek order mai delivery date se bas 5 din hi late aaya order Tm harami ke pille yaha kyun baithe ho jb kch1/2",
+    "created_at": "Wed Nov 01 07:39:38 +0000 2017",
+    "in_response_to_tweet_id": 20745.0,
+    "response_tweet_id": "20751",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20751,
+    "customer_handle": "@120538",
+    "customer_text": "@AmazonHelp kr hi sakte ho tm chutye 2/2",
+    "created_at": "Wed Nov 01 07:40:00 +0000 2017",
+    "in_response_to_tweet_id": 20750.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20753,
+    "customer_handle": "@120541",
+    "customer_text": "@AmazonHelp Well my country is selected as India and my language is English (UK) and when I go to skills I get this: https://t.co/ydfxKirxDn",
+    "created_at": "Wed Nov 01 13:11:53 +0000 2017",
+    "in_response_to_tweet_id": 20752.0,
+    "response_tweet_id": "20755",
+    "agent_reply_id": 20755,
+    "agent_reply_text": "@120541 Please get in touch with us via https://t.co/TxK11znixD and we'll check this out. ^AM"
+  },
+  {
+    "inbound_tweet_id": 20756,
+    "customer_handle": "@120541",
+    "customer_text": "@AmazonHelp Cool beans. Thanks!",
+    "created_at": "Wed Nov 01 13:35:25 +0000 2017",
+    "in_response_to_tweet_id": 20755.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 20760,
+    "customer_handle": "@120542",
+    "customer_text": "@AmazonHelp Did not arrive. Please could you confirm which day it is. https://t.co/3NEPf3QAyG",
+    "created_at": "Wed Nov 01 07:11:27 +0000 2017",
+    "in_response_to_tweet_id": 20761.0,
+    "response_tweet_id": "20759",
+    "agent_reply_id": 20759,
+    "agent_reply_text": "@120542 You should receive it today or tomorrow according to the tracking information, unfortunately I can't look into it further here ^AS"
+  },
+  {
+    "inbound_tweet_id": 20762,
+    "customer_handle": "@120542",
+    "customer_text": "@AmazonHelp Arriving today. That's all it's said since this morning. My mum is waiting in as is still waiting. Just a rough time frame would be kind",
+    "created_at": "Tue Oct 31 16:11:10 +0000 2017",
+    "in_response_to_tweet_id": 20763.0,
+    "response_tweet_id": "20761",
+    "agent_reply_id": 20761,
+    "agent_reply_text": "@120542 I understand. Parcels can be delivered up to 21:00. Please let us know if the order does not arrive by that time. ^AL"
+  },
+  {
+    "inbound_tweet_id": 25843,
+    "customer_handle": "@121645",
+    "customer_text": "@AmazonHelp I'm not sure I know what link you mean, I can't seem to find one!",
+    "created_at": "Wed Nov 01 10:18:06 +0000 2017",
+    "in_response_to_tweet_id": 25842.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25838,
+    "customer_handle": "@121645",
+    "customer_text": "@AmazonHelp @121644 I am also having the same predicament! I got a confirmation message and email but am unable to access the presale!",
+    "created_at": "Wed Nov 01 09:48:39 +0000 2017",
+    "in_response_to_tweet_id": 25837.0,
+    "response_tweet_id": "25840",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25847,
+    "customer_handle": "@121648",
+    "customer_text": "@AmazonHelp Amazon Cust Cre is not able to resolve my problem related to refund. Checkout details of my a/c.(Reg Mob No: 9867111188)",
+    "created_at": "Wed Nov 01 10:00:44 +0000 2017",
+    "in_response_to_tweet_id": 25846.0,
+    "response_tweet_id": "25849,25850",
+    "agent_reply_id": 25849,
+    "agent_reply_text": "@121648 Please don't provide your order details, as we consider it to be personal information. Our Twitter page is public.\u200b (2/2) ^SI"
+  },
+  {
+    "inbound_tweet_id": 25852,
+    "customer_handle": "@121649",
+    "customer_text": "@AmazonHelp Check this.. https://t.co/W9hQxPe8lF",
+    "created_at": "Thu Nov 02 07:21:42 +0000 2017",
+    "in_response_to_tweet_id": 25851.0,
+    "response_tweet_id": "25854,25855,25856",
+    "agent_reply_id": 25854,
+    "agent_reply_text": "@121649 Sorry for the miss with the delivery of your order, we certainly did not expect this to happen. 1/2 ^PS"
+  },
+  {
+    "inbound_tweet_id": 25855,
+    "customer_handle": "@121649",
+    "customer_text": "@AmazonHelp What is this ? Two days in a row it has gone to wrong courier facility ? No follow ups from amazon !! https://t.co/ixGAtTiBR0",
+    "created_at": "Thu Nov 02 07:37:47 +0000 2017",
+    "in_response_to_tweet_id": 25852.0,
+    "response_tweet_id": "25857",
+    "agent_reply_id": 25857,
+    "agent_reply_text": "@121649 Sorry about that. I\u2019d like to help you, please fill this form: https://t.co/beaaDm0muc and I\u2019ll contact you soon. ^SY"
+  },
+  {
+    "inbound_tweet_id": 25858,
+    "customer_handle": "@121649",
+    "customer_text": "@AmazonHelp Done. No contact yet.",
+    "created_at": "Thu Nov 02 12:08:41 +0000 2017",
+    "in_response_to_tweet_id": 25857.0,
+    "response_tweet_id": "25859",
+    "agent_reply_id": 25859,
+    "agent_reply_text": "@121649 We haven't received your details yet. Kindly fill your details once again in the link provided earlier &amp; we'll get in touch. ^SY"
+  },
+  {
+    "inbound_tweet_id": 25860,
+    "customer_handle": "@121649",
+    "customer_text": "@AmazonHelp I did fill up the form twice, still waiting for a phone call back!",
+    "created_at": "Fri Nov 03 12:46:58 +0000 2017",
+    "in_response_to_tweet_id": 25859.0,
+    "response_tweet_id": "25861,25862",
+    "agent_reply_id": 25861,
+    "agent_reply_text": "@121649 Please check your correspondence here: https://t.co/D4JYCz78qX. (2/2) ^JS"
+  },
+  {
+    "inbound_tweet_id": 25869,
+    "customer_handle": "@121651",
+    "customer_text": "@AmazonHelp I was told if I owned the rights to a particular book I needed to resubmit it for publication. So I did, and am just waiting. 1/2",
+    "created_at": "Wed Nov 01 09:56:18 +0000 2017",
+    "in_response_to_tweet_id": 25868.0,
+    "response_tweet_id": "25871",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25871,
+    "customer_handle": "@121651",
+    "customer_text": "@AmazonHelp The book has been previously published, but I own all rights to it as they reverted back to me this month. 2/2",
+    "created_at": "Wed Nov 01 09:56:39 +0000 2017",
+    "in_response_to_tweet_id": 25869.0,
+    "response_tweet_id": "25872",
+    "agent_reply_id": 25872,
+    "agent_reply_text": "@121651 Did our publisher team set a time-frame for the approval process? ^KN"
+  },
+  {
+    "inbound_tweet_id": 25873,
+    "customer_handle": "@121651",
+    "customer_text": "@AmazonHelp No, but I emailed to offer a copy of my rights reversion letter and \"in review\" just changed to \"publishing\" on my KDP page. Appears ok.",
+    "created_at": "Wed Nov 01 10:19:39 +0000 2017",
+    "in_response_to_tweet_id": 25872.0,
+    "response_tweet_id": "25874",
+    "agent_reply_id": 25874,
+    "agent_reply_text": "@121651 Just let us know if you need anything else. ^BM"
+  },
+  {
+    "inbound_tweet_id": 25881,
+    "customer_handle": "@121654",
+    "customer_text": "@119356 @AmazonHelp @1560 I have purchased a keybrd &amp;mouse mrp shows 787 bt bill amt 799 from amazon .. https://t.co/LA3QOEQZo0",
+    "created_at": "Wed Nov 01 09:18:07 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "25880,25882,25883",
+    "agent_reply_id": 25880,
+    "agent_reply_text": "@121654 Please don't provide your order details, we consider it to be personal info. Our page is visible to the public. 3/3 ^KA"
+  },
+  {
+    "inbound_tweet_id": 25889,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp Still the issue is open....how come its taking so long?",
+    "created_at": "Mon Nov 06 06:43:30 +0000 2017",
+    "in_response_to_tweet_id": 25888.0,
+    "response_tweet_id": "25891,25892",
+    "agent_reply_id": 25891,
+    "agent_reply_text": "@121656 Please share your details from the link here: https://t.co/beaaDm0muc and we will assist you accordingly. (2/2)^HR"
+  },
+  {
+    "inbound_tweet_id": 25893,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp Done.",
+    "created_at": "Mon Nov 06 08:38:58 +0000 2017",
+    "in_response_to_tweet_id": 25891.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25894,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp Rcvd incomplete reply. Complaint not being read properly. It is a response about Gift cards. Query on Amazon Pay Bal. not being answered.",
+    "created_at": "Tue Nov 07 03:46:21 +0000 2017",
+    "in_response_to_tweet_id": 25891.0,
+    "response_tweet_id": "25895",
+    "agent_reply_id": 25895,
+    "agent_reply_text": "@121656 Sorry for the disappointment. Please reply to the email you've received from our team and we'll get back. ^KA"
+  },
+  {
+    "inbound_tweet_id": 25896,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp I clicked \"NO\" on whether the issue was resolved. And once again narrated my prob in online feedback portal. Customer service is abysmal",
+    "created_at": "Tue Nov 07 04:15:18 +0000 2017",
+    "in_response_to_tweet_id": 25895.0,
+    "response_tweet_id": "25897",
+    "agent_reply_id": 25897,
+    "agent_reply_text": "@121656 I understand your upset, may I know if you've replied to the email sent by the Social Media team? ^EM"
+  },
+  {
+    "inbound_tweet_id": 25898,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp At the bottom it was mentioned-  Did I solve your problem? I clicked NO and detailed the issue on the feedback portal.",
+    "created_at": "Tue Nov 07 05:30:18 +0000 2017",
+    "in_response_to_tweet_id": 25897.0,
+    "response_tweet_id": "25899",
+    "agent_reply_id": 25899,
+    "agent_reply_text": "@121656 Sorry for the trouble with the resolution. We'll get in touch with an update soon. Appreciate your understanding. ^AK"
+  },
+  {
+    "inbound_tweet_id": 25900,
+    "customer_handle": "@121657",
+    "customer_text": "@AmazonHelp @121656 Such pathetic people in customer care these days of amazon...absolutely of no help !! idiots",
+    "created_at": "Tue Nov 07 05:46:38 +0000 2017",
+    "in_response_to_tweet_id": 25899.0,
+    "response_tweet_id": "25902",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25902,
+    "customer_handle": "@121656",
+    "customer_text": "@121657 @AmazonHelp Its because they have got their payment",
+    "created_at": "Tue Nov 07 06:04:00 +0000 2017",
+    "in_response_to_tweet_id": 25900.0,
+    "response_tweet_id": "25903",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25903,
+    "customer_handle": "@121657",
+    "customer_text": "@121656 @AmazonHelp yes, and they are shameless people.. with vague explanations every time ! they used to be good...now worst in Industry",
+    "created_at": "Tue Nov 07 22:46:23 +0000 2017",
+    "in_response_to_tweet_id": 25902.0,
+    "response_tweet_id": "25904",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25904,
+    "customer_handle": "@121656",
+    "customer_text": "@121657 @AmazonHelp for CoD orders they are prompt...but if paid by credit card - they are slow...because they already got their money. #amazonscam",
+    "created_at": "Wed Nov 08 03:40:40 +0000 2017",
+    "in_response_to_tweet_id": 25903.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25901,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp Still no reply...my complaint is still pending",
+    "created_at": "Thu Nov 09 15:03:41 +0000 2017",
+    "in_response_to_tweet_id": 25899.0,
+    "response_tweet_id": "25905",
+    "agent_reply_id": 25905,
+    "agent_reply_text": "@121656 Apologies for the ordeal. Kindly reply to our correspondence here: https://t.co/8DAc10S7ww and we'll check this further for you. ^VN"
+  },
+  {
+    "inbound_tweet_id": 25906,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp There is no provision to make a reply...Why aren't you replying my question on amazon pay balance??? @115851 - #amazonsucks",
+    "created_at": "Fri Nov 10 03:43:23 +0000 2017",
+    "in_response_to_tweet_id": 25905.0,
+    "response_tweet_id": "25907",
+    "agent_reply_id": 25907,
+    "agent_reply_text": "@121656 Please check the link above and reply to our email. You will have an option to reply to the email. ^PS"
+  },
+  {
+    "inbound_tweet_id": 25908,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp Where?? I am fed up....you guys are useless....you deducted my Amazon Pay Balance without alerting me. #amazonsucks @115851 https://t.co/FxG86Khf6f",
+    "created_at": "Fri Nov 10 06:29:27 +0000 2017",
+    "in_response_to_tweet_id": 25907.0,
+    "response_tweet_id": "25909",
+    "agent_reply_id": 25909,
+    "agent_reply_text": "@121656 Sorry about that. Kindly write back to the email you've received from our team and we will respond on the same. ^GK"
+  },
+  {
+    "inbound_tweet_id": 25910,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp No Not Again. I have written it at least thrice by now...and narrated the same over my phone call...not again. You go and read. Why did you not alert me before deducting the pay balance??? @115851 #amazonsucks",
+    "created_at": "Fri Nov 10 07:53:54 +0000 2017",
+    "in_response_to_tweet_id": 25909.0,
+    "response_tweet_id": "25911",
+    "agent_reply_id": 25911,
+    "agent_reply_text": "@121656 Twitter being a public platform we do not have access to your account details, please reply to the email for better insight of the issue. ^SI"
+  },
+  {
+    "inbound_tweet_id": 25912,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp I have replied and emailed and web posted....enough...you go trace it out. #amazonsucks @115851",
+    "created_at": "Fri Nov 10 08:37:44 +0000 2017",
+    "in_response_to_tweet_id": 25911.0,
+    "response_tweet_id": "25913",
+    "agent_reply_id": 25913,
+    "agent_reply_text": "@121656 Thanks for the update, we'll get back to you with a resolution soon. ^MJ"
+  },
+  {
+    "inbound_tweet_id": 25914,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp I recvd a response...but my question was not answered. I haver replied again. #amazonsucks @115851",
+    "created_at": "Fri Nov 10 14:58:56 +0000 2017",
+    "in_response_to_tweet_id": 25913.0,
+    "response_tweet_id": "25915",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25915,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp @115851 I recvd another response. Each time response content is same. Not once has my question on amazon pay balance been answered. @115851 #amazonsucks",
+    "created_at": "Sat Nov 11 07:41:39 +0000 2017",
+    "in_response_to_tweet_id": 25914.0,
+    "response_tweet_id": "25916,25917",
+    "agent_reply_id": 25916,
+    "agent_reply_text": "@121656 If your query hasn't been answered, please share your details here: https://t.co/M5hlPnM6fv and I'll get back to you. ^SH"
+  },
+  {
+    "inbound_tweet_id": 25917,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp @115851 This link - https://t.co/eOLlL5cru1  - shows my question about amazon pay balance was never answered. #scam #Scammers @115851 #amazonsucks",
+    "created_at": "Mon Nov 20 15:58:05 +0000 2017",
+    "in_response_to_tweet_id": 25915.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25890,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp Please push CS to reply...",
+    "created_at": "Wed Nov 01 09:33:43 +0000 2017",
+    "in_response_to_tweet_id": 25918.0,
+    "response_tweet_id": "25888",
+    "agent_reply_id": 25888,
+    "agent_reply_text": "@121656 Thanks for getting in touch with our support team. Kindly wait till you receive an update. Do keep us posted. ^AK (1/2)"
+  },
+  {
+    "inbound_tweet_id": 25918,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp My email interaction with your cs is on...reply pending. Just escalating the matter....to get a positive reply. Please check your cs email.",
+    "created_at": "Tue Oct 31 13:35:15 +0000 2017",
+    "in_response_to_tweet_id": 25920.0,
+    "response_tweet_id": "25890,25919",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25921,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp I recvd for Gift Card Expiry and redeemed to add Rs.1000 to my Pay Balance. Did not recv alert for Pay Balance expiry. Check my email to cs.",
+    "created_at": "Tue Oct 31 13:21:15 +0000 2017",
+    "in_response_to_tweet_id": 25922.0,
+    "response_tweet_id": "25920",
+    "agent_reply_id": 25920,
+    "agent_reply_text": "@121656 I'm sorry to know that you did not receive any email. Request you to connect with us here:https://t.co/vlvfJr4nN9. ^OS"
+  },
+  {
+    "inbound_tweet_id": 25923,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp I never received an alert that my Amazon pay balance was about to expire.",
+    "created_at": "Tue Oct 31 13:03:15 +0000 2017",
+    "in_response_to_tweet_id": 25924.0,
+    "response_tweet_id": "25922",
+    "agent_reply_id": 25922,
+    "agent_reply_text": "@121656 We send an alert 15 and 30 days prior to the expiration to your registered email ID, please check. ^HA"
+  },
+  {
+    "inbound_tweet_id": 25925,
+    "customer_handle": "@121656",
+    "customer_text": "@AmazonHelp Please check my email sent your cs ... and revert. #this #sucks",
+    "created_at": "Tue Oct 31 10:54:27 +0000 2017",
+    "in_response_to_tweet_id": 25926.0,
+    "response_tweet_id": "25924",
+    "agent_reply_id": 25924,
+    "agent_reply_text": "@121656 Please tell us what went wrong Rajdeep, so that we can check this for you. ^HN"
+  },
+  {
+    "inbound_tweet_id": 25930,
+    "customer_handle": "@121658",
+    "customer_text": "@AmazonHelp Also gepr\u00fcft und f\u00fcr negativ befunden, ich hoffe das Paket kommt heute an und vor allem gut Verpackt, die 3te Box war leider zerknickt ...",
+    "created_at": "Wed Nov 01 11:13:02 +0000 2017",
+    "in_response_to_tweet_id": 25929.0,
+    "response_tweet_id": "25932,25933",
+    "agent_reply_id": 25932,
+    "agent_reply_text": "@121658 Ich dr\u00fccke dir auf alle F\u00e4lle die Daumen. ^AN"
+  },
+  {
+    "inbound_tweet_id": 25933,
+    "customer_handle": "@121659",
+    "customer_text": "@121658 @AmazonHelp Mir das selbe bei Pok\u00e9mon Silber und Gold leider vor 2 Wochen",
+    "created_at": "Wed Nov 01 11:49:20 +0000 2017",
+    "in_response_to_tweet_id": 25930.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25931,
+    "customer_handle": "@121658",
+    "customer_text": "@AmazonHelp Screenshot wurde vor 10 Minuten gemacht :) Danke f\u00fcr die schnelle R\u00fcckmeldung.",
+    "created_at": "Wed Nov 01 09:46:57 +0000 2017",
+    "in_response_to_tweet_id": 25934.0,
+    "response_tweet_id": "25929",
+    "agent_reply_id": 25929,
+    "agent_reply_text": "@121658 Gerne."
+  },
+  {
+    "inbound_tweet_id": 25937,
+    "customer_handle": "@121660",
+    "customer_text": "@AmazonHelp I sent a direct message with details on this",
+    "created_at": "Wed Nov 01 10:02:45 +0000 2017",
+    "in_response_to_tweet_id": 25936.0,
+    "response_tweet_id": "25939",
+    "agent_reply_id": 25939,
+    "agent_reply_text": "@121660 Ok thanks. ^KM"
+  },
+  {
+    "inbound_tweet_id": 25938,
+    "customer_handle": "@121660",
+    "customer_text": "@AmazonHelp so I order on prime for next day delivery and receive nothing :/ cant track parcel, cant contact seller...how do I get my delivery??massively disappointed",
+    "created_at": "Wed Nov 01 09:38:35 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "25936",
+    "agent_reply_id": 25936,
+    "agent_reply_text": "@121660 Hi. Is the order being sold directly by ourselves or a third party seller? ^DC"
+  },
+  {
+    "inbound_tweet_id": 25941,
+    "customer_handle": "@121661",
+    "customer_text": "@AmazonHelp Dovreste aggiungere un tasto \"Compra tutta la lista\". \ud83e\udd23",
+    "created_at": "Wed Nov 01 09:56:55 +0000 2017",
+    "in_response_to_tweet_id": 25940.0,
+    "response_tweet_id": "25943",
+    "agent_reply_id": 25943,
+    "agent_reply_text": "@121661 Ottima idea! ^FS https://t.co/QoQI5Lzs5o"
+  },
+  {
+    "inbound_tweet_id": 25944,
+    "customer_handle": "@121649",
+    "customer_text": "@AmazonHelp But why I was not shown the option of next day delivery whereas it is currently shown right now.",
+    "created_at": "Wed Nov 01 10:20:40 +0000 2017",
+    "in_response_to_tweet_id": 25864.0,
+    "response_tweet_id": "25945",
+    "agent_reply_id": 25945,
+    "agent_reply_text": "@121649 Please get in touch with us via https://t.co/TxK11znixD and check it out for you. ^AM"
+  },
+  {
+    "inbound_tweet_id": 25952,
+    "customer_handle": "@121402",
+    "customer_text": "@AmazonHelp Fresh completely ignored my messages and you guys just ask how u can help then disappear when i ask. https://t.co/XPjmFqRyA4",
+    "created_at": "Wed Nov 01 09:42:43 +0000 2017",
+    "in_response_to_tweet_id": 25953.0,
+    "response_tweet_id": "25951",
+    "agent_reply_id": 25951,
+    "agent_reply_text": "@121402 You need to contact Amazon Fresh via here: https://t.co/JzP7hlA23B and we can help further. ^AS"
+  },
+  {
+    "inbound_tweet_id": 25955,
+    "customer_handle": "@121665",
+    "customer_text": "@AmazonHelp @121664 Ich hab geh\u00f6rt heute Aufnahme",
+    "created_at": "Wed Nov 01 10:00:13 +0000 2017",
+    "in_response_to_tweet_id": 25954.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 25959,
+    "customer_handle": "@120612",
+    "customer_text": "@AmazonHelp How many times we have to fill the forms. 23rd we raised the case 4063530272.\nToday it's 1st Nov.\nStill in waiting.\nAnd we loose 4 orders",
+    "created_at": "Wed Nov 01 09:11:44 +0000 2017",
+    "in_response_to_tweet_id": 25962.0,
+    "response_tweet_id": "25958,25960,25961",
+    "agent_reply_id": 25958,
+    "agent_reply_text": "@120612 your order details, we consider it to be personal info. Our page is visible to the public. (3/3)^SF"
+  },
+  {
+    "inbound_tweet_id": 25970,
+    "customer_handle": "@121666",
+    "customer_text": "@AmazonHelp It just been delivered now!",
+    "created_at": "Wed Nov 01 09:39:08 +0000 2017",
+    "in_response_to_tweet_id": 25971.0,
+    "response_tweet_id": "25969",
+    "agent_reply_id": 25969,
+    "agent_reply_text": "@121666 Hurrayy! ^AS"
+  },
+  {
+    "inbound_tweet_id": 25972,
+    "customer_handle": "@121666",
+    "customer_text": "@AmazonHelp Delivered",
+    "created_at": "Tue Oct 31 13:04:26 +0000 2017",
+    "in_response_to_tweet_id": 25973.0,
+    "response_tweet_id": "25971",
+    "agent_reply_id": 25971,
+    "agent_reply_text": "@121666 Oh no! Have you tried these steps to locate your parcel: https://t.co/rM4khb1tx5? Let us know! ^TG"
+  },
+  {
+    "inbound_tweet_id": 25974,
+    "customer_handle": "@121666",
+    "customer_text": "@AmazonHelp why am I getting \u2018delivered\u2019 updates when they haven\u2019t been?!",
+    "created_at": "Tue Oct 31 12:58:23 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "25973",
+    "agent_reply_id": 25973,
+    "agent_reply_text": "@121666 I'm sorry to hear this! Just to confirm,what is the current status of this package showing ? https://t.co/hApLpMlfHN ^MW"
+  },
+  {
+    "inbound_tweet_id": 26854,
+    "customer_handle": "@121883",
+    "customer_text": "@AmazonHelp The date was changed at the end of the day it was supposed to be delivered. Now it suggests it's going to take 1-2 days more.",
+    "created_at": "Wed Nov 01 10:13:09 +0000 2017",
+    "in_response_to_tweet_id": 26853.0,
+    "response_tweet_id": "26856",
+    "agent_reply_id": 26856,
+    "agent_reply_text": "@121883 My apologies for that. Please let us know if it's not received within the revised delivery estimate. ^DC"
+  },
+  {
+    "inbound_tweet_id": 26880,
+    "customer_handle": "@121886",
+    "customer_text": "@AmazonHelp hi, I have a credit card charge for prime every month when I am not a subscriber. Can you help?",
+    "created_at": "Wed Nov 01 09:44:10 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "26879",
+    "agent_reply_id": 26879,
+    "agent_reply_text": "@121886 I'm sorry about the charge. Please report this to our support team here: https://t.co/vlvfJr4nN9 we'll be happy to help. ^AR"
+  },
+  {
+    "inbound_tweet_id": 26885,
+    "customer_handle": "@121888",
+    "customer_text": "@AmazonHelp Saying I have exceeded number of tickets... I only want two. Others reporting this for Brighton too...",
+    "created_at": "Wed Nov 01 10:09:33 +0000 2017",
+    "in_response_to_tweet_id": 26884.0,
+    "response_tweet_id": "26888",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26888,
+    "customer_handle": "@121889",
+    "customer_text": "@121888 @AmazonHelp I'm getting this too. On hold to their phone. Getting nowhere.",
+    "created_at": "Wed Nov 01 10:10:02 +0000 2017",
+    "in_response_to_tweet_id": 26885.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26886,
+    "customer_handle": "@121888",
+    "customer_text": "@AmazonHelp It\u2019s not working!!",
+    "created_at": "Wed Nov 01 10:08:35 +0000 2017",
+    "in_response_to_tweet_id": 26884.0,
+    "response_tweet_id": "26889",
+    "agent_reply_id": 26889,
+    "agent_reply_text": "@121888 Oh no! What's the issue? What does it show? ^PK"
+  },
+  {
+    "inbound_tweet_id": 26890,
+    "customer_handle": "@121888",
+    "customer_text": "@AmazonHelp It says \u2018you have exceeded the maximum allowed number of tickets\u2019 I only want 2",
+    "created_at": "Wed Nov 01 10:22:08 +0000 2017",
+    "in_response_to_tweet_id": 26889.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26906,
+    "customer_handle": "@121892",
+    "customer_text": "@AmazonHelp It\u2019s not letting me copy the link",
+    "created_at": "Wed Nov 01 10:06:47 +0000 2017",
+    "in_response_to_tweet_id": 26905.0,
+    "response_tweet_id": "26908",
+    "agent_reply_id": 26908,
+    "agent_reply_text": "@121892 You should be able to tap/click on that link. If not, can you please use another device to see if it works? ^RL"
+  },
+  {
+    "inbound_tweet_id": 26909,
+    "customer_handle": "@121892",
+    "customer_text": "@AmazonHelp I\u2019ve managed to do it now",
+    "created_at": "Wed Nov 01 11:32:51 +0000 2017",
+    "in_response_to_tweet_id": 26908.0,
+    "response_tweet_id": "26910",
+    "agent_reply_id": 26910,
+    "agent_reply_text": "@121892 Great, thanks for confirming Amy. ^TS"
+  },
+  {
+    "inbound_tweet_id": 26911,
+    "customer_handle": "@121892",
+    "customer_text": "@AmazonHelp It\u2019s gonna take about 12hrs now for someone to contact me is the right?",
+    "created_at": "Wed Nov 01 11:40:22 +0000 2017",
+    "in_response_to_tweet_id": 26910.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26907,
+    "customer_handle": "@121892",
+    "customer_text": "@AmazonHelp Hi I am not happy at all NO response from @115830 this is not acceptable it\u2019s Racism which I wouldn\u2019t expect from Amazon...... https://t.co/jjAJS8njHt",
+    "created_at": "Wed Nov 01 09:45:14 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "26905",
+    "agent_reply_id": 26905,
+    "agent_reply_text": "@121892 Hi, can you get in touch using https://t.co/J7gpEjazfN and I'll have a specialist look into this? ^BM"
+  },
+  {
+    "inbound_tweet_id": 26913,
+    "customer_handle": "@121893",
+    "customer_text": "@AmazonHelp Nothing. The tracking on the app said due for dispatch between 24th and 26th.",
+    "created_at": "Wed Nov 01 10:12:24 +0000 2017",
+    "in_response_to_tweet_id": 26912.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26914,
+    "customer_handle": "@121893",
+    "customer_text": "@AmazonHelp Just now! I gave you the benefit of the doubt but I have now cancelled the order.",
+    "created_at": "Wed Nov 01 09:54:00 +0000 2017",
+    "in_response_to_tweet_id": 26915.0,
+    "response_tweet_id": "26912",
+    "agent_reply_id": 26912,
+    "agent_reply_text": "@121893 Hi, what info did we give about the dispatch issue? Were any options provided? ^TS"
+  },
+  {
+    "inbound_tweet_id": 26916,
+    "customer_handle": "@121893",
+    "customer_text": "@AmazonHelp Between 24th and 26th I believe",
+    "created_at": "Tue Oct 31 22:07:16 +0000 2017",
+    "in_response_to_tweet_id": 26917.0,
+    "response_tweet_id": "26915",
+    "agent_reply_id": 26915,
+    "agent_reply_text": "@121893 Have you contacted us about the delay: https://t.co/JzP7hlA23B? ^KB"
+  },
+  {
+    "inbound_tweet_id": 26918,
+    "customer_handle": "@121893",
+    "customer_text": "@AmazonHelp Pre ordered a book and treated myself to another book, neither have even dispatched! The order is still at will dispatch on 22nd Oct.",
+    "created_at": "Tue Oct 31 21:54:20 +0000 2017",
+    "in_response_to_tweet_id": 26919.0,
+    "response_tweet_id": "26917",
+    "agent_reply_id": 26917,
+    "agent_reply_text": "@121893 When you placed the order what was the stated delivery date? You can quickly check from here:  https://t.co/aaDyEz1VgE ^CH"
+  },
+  {
+    "inbound_tweet_id": 26922,
+    "customer_handle": "@121894",
+    "customer_text": "@AmazonHelp Bisher hat alles immer geklappt, hab schon ne Email vom Support bekommen und bekomme das Geld zur\u00fcck, das lief echt gut 1/2",
+    "created_at": "Wed Nov 01 10:08:46 +0000 2017",
+    "in_response_to_tweet_id": 26921.0,
+    "response_tweet_id": "26924",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26924,
+    "customer_handle": "@121894",
+    "customer_text": "@AmazonHelp Im Prinzip war es ja auch nicht eure Schuld, sondern die von DHL, die das Paket verloren haben.",
+    "created_at": "Wed Nov 01 10:09:19 +0000 2017",
+    "in_response_to_tweet_id": 26922.0,
+    "response_tweet_id": "26925",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26925,
+    "customer_handle": "@121895",
+    "customer_text": "@121894 @AmazonHelp Gott sei denk war mein DHL Bote besser \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 hab es sofort bekommen xD",
+    "created_at": "Wed Nov 01 10:34:25 +0000 2017",
+    "in_response_to_tweet_id": 26924.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26923,
+    "customer_handle": "@121894",
+    "customer_text": "@AmazonHelp @1713 Bestellung ist storniert und bei Amazon werde ich nie wieder ein Spiel vorbestellen.",
+    "created_at": "Wed Nov 01 10:01:12 +0000 2017",
+    "in_response_to_tweet_id": 26926.0,
+    "response_tweet_id": "26921",
+    "agent_reply_id": 26921,
+    "agent_reply_text": "@121894 Das tut mir leid \ud83d\ude41 Hast du dich mal hier gemeldet: https://t.co/va1VRoK7GS ob meine Kollegen etwas f\u00fcr dich tun k\u00f6nnen? ^DW"
+  },
+  {
+    "inbound_tweet_id": 26926,
+    "customer_handle": "@121894",
+    "customer_text": "Gr\u00fc\u00dfe gehen raus an @AmazonHelp und @1713 \ud83d\ude0f Assasins Creed vorbestellt f\u00fcr letzten Freitag und DHL hat es irgendwie verloren. 1/2",
+    "created_at": "Wed Nov 01 10:00:48 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "26923",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26928,
+    "customer_handle": "@121896",
+    "customer_text": "@AmazonHelp It was supposed to arrive yesterday and now it's changed to by the 6th. Bit confused with the fact there is partial tracking information.",
+    "created_at": "Wed Nov 01 10:05:17 +0000 2017",
+    "in_response_to_tweet_id": 26927.0,
+    "response_tweet_id": "26930",
+    "agent_reply_id": 26930,
+    "agent_reply_text": "@121896 Let's take a look into this together. When you get the chance, please reach out to us here: https://t.co/JzP7hlA23B ^TH"
+  },
+  {
+    "inbound_tweet_id": 26929,
+    "customer_handle": "@121896",
+    "customer_text": "@AmazonHelp Hi, just curious as to why tracking details for my item haven't been updated. Can you help? https://t.co/Ko30E2efuK",
+    "created_at": "Wed Nov 01 09:50:57 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "26927",
+    "agent_reply_id": 26927,
+    "agent_reply_text": "@121896 Hi, tracking isn't available for all parcels, do you see a carrier name? What expected delivery date is provided? ^TS"
+  },
+  {
+    "inbound_tweet_id": 26932,
+    "customer_handle": "@121897",
+    "customer_text": "@AmazonHelp Can\u2019t seem to find any option to play podcasts via Echo. An I missing something?",
+    "created_at": "Wed Nov 01 10:54:24 +0000 2017",
+    "in_response_to_tweet_id": 26931.0,
+    "response_tweet_id": "26935",
+    "agent_reply_id": 26935,
+    "agent_reply_text": "@121897 Have you tried using TuneIn to play the podcast?: https://t.co/oY3LD8cZCy Or adding the podcast to a Spotify playlist? ^SD"
+  },
+  {
+    "inbound_tweet_id": 26936,
+    "customer_handle": "@121897",
+    "customer_text": "@AmazonHelp I don\u2019t seem to be able to play my Spotify playlists on Echo either - it doesn\u2019t recognise the titles. Which command should I use?",
+    "created_at": "Wed Nov 01 11:15:32 +0000 2017",
+    "in_response_to_tweet_id": 26935.0,
+    "response_tweet_id": "26937",
+    "agent_reply_id": 26937,
+    "agent_reply_text": "@121897 Here's a link to our page about music commands. Do you have Spotify Premium? Looks like it's required. https://t.co/ZAWkX10RMf ^EM"
+  },
+  {
+    "inbound_tweet_id": 26938,
+    "customer_handle": "@121897",
+    "customer_text": "@AmazonHelp Can anyone at @SpotifyCares help?",
+    "created_at": "Wed Nov 01 11:31:39 +0000 2017",
+    "in_response_to_tweet_id": 26937.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26939,
+    "customer_handle": "@121897",
+    "customer_text": "@AmazonHelp Pic 2) Song https://t.co/1sV7a7DfEv",
+    "created_at": "Wed Nov 01 11:31:16 +0000 2017",
+    "in_response_to_tweet_id": 26937.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26940,
+    "customer_handle": "@121897",
+    "customer_text": "@AmazonHelp Pic 1) podcast episode https://t.co/y3BDMaNEk7",
+    "created_at": "Wed Nov 01 11:31:01 +0000 2017",
+    "in_response_to_tweet_id": 26937.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26941,
+    "customer_handle": "@121897",
+    "customer_text": "@AmazonHelp Yep! Podcasts seem to work differently from music. No option to add podcast episodes to @115888 playlist. So can\u2019t listen on Echo, shame.",
+    "created_at": "Wed Nov 01 11:29:43 +0000 2017",
+    "in_response_to_tweet_id": 26937.0,
+    "response_tweet_id": "26943",
+    "agent_reply_id": 26943,
+    "agent_reply_text": "@121897 Ok, sorry Lauren. ^KM"
+  },
+  {
+    "inbound_tweet_id": 26942,
+    "customer_handle": "@121897",
+    "customer_text": "@AmazonHelp Ah! Found @79347 on TuneIn. Shame it won\u2019t work via @115888 but at least it now works on the Echo. Thanks for your help!",
+    "created_at": "Wed Nov 01 11:37:02 +0000 2017",
+    "in_response_to_tweet_id": 26937.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26933,
+    "customer_handle": "@121897",
+    "customer_text": "@AmazonHelp It\u2019s not recognizing the name of the podcast (Slate Presents Lexicon Valley) which can be found on Spotify. Says \u201cI can\u2019t find songs by...\u201d",
+    "created_at": "Wed Nov 01 10:13:44 +0000 2017",
+    "in_response_to_tweet_id": 26931.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26945,
+    "customer_handle": "@121898",
+    "customer_text": "@AmazonHelp Before 2 month I have purchased 32 inches TCL led tv\nAnd now there is a problem in that tv\nAnd TCL is not helping me",
+    "created_at": "Wed Nov 01 10:06:26 +0000 2017",
+    "in_response_to_tweet_id": 26944.0,
+    "response_tweet_id": "26947,26948,26949,26950",
+    "agent_reply_id": 26947,
+    "agent_reply_text": "@121898 please get back to us with a service denial letter and we'll look into this for you. 4/4 ^AR"
+  },
+  {
+    "inbound_tweet_id": 26951,
+    "customer_handle": "@121898",
+    "customer_text": "@AmazonHelp So if there service is not good then why you are allowing them to sell their products on your portal...You will help me or not",
+    "created_at": "Wed Nov 01 10:19:18 +0000 2017",
+    "in_response_to_tweet_id": 26950.0,
+    "response_tweet_id": "26953",
+    "agent_reply_id": 26953,
+    "agent_reply_text": "@121898 I'm sorry but we'll not be able to look into this until we receive a service denial letter. ^HK"
+  },
+  {
+    "inbound_tweet_id": 26954,
+    "customer_handle": "@121898",
+    "customer_text": "@AmazonHelp Got it. Worst services @AmazonHelp @121899  too",
+    "created_at": "Wed Nov 01 10:56:59 +0000 2017",
+    "in_response_to_tweet_id": 26953.0,
+    "response_tweet_id": "26955",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26955,
+    "customer_handle": "@121899",
+    "customer_text": "@121898 @AmazonHelp Can you please send us a DM with your contact information case# and TV model # so we can look into this for you.",
+    "created_at": "Wed Nov 01 16:06:33 +0000 2017",
+    "in_response_to_tweet_id": 26954.0,
+    "response_tweet_id": "26956,26957",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26956,
+    "customer_handle": "@121898",
+    "customer_text": "@121899 @AmazonHelp Yes sure",
+    "created_at": "Wed Nov 01 16:09:14 +0000 2017",
+    "in_response_to_tweet_id": 26955.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26957,
+    "customer_handle": "@121898",
+    "customer_text": "@121899 @AmazonHelp @121899  I have send my details",
+    "created_at": "Wed Nov 01 16:18:04 +0000 2017",
+    "in_response_to_tweet_id": 26955.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26952,
+    "customer_handle": "@121898",
+    "customer_text": "@AmazonHelp *their",
+    "created_at": "Wed Nov 01 10:19:31 +0000 2017",
+    "in_response_to_tweet_id": 26950.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26946,
+    "customer_handle": "@121898",
+    "customer_text": "@115850  @AmazonHelp @115821 @121899 Never purchase TCL led . Worst services after sales.\nAmazon didn't help me even.",
+    "created_at": "Wed Nov 01 09:37:05 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "26944",
+    "agent_reply_id": 26944,
+    "agent_reply_text": "@121898 Please let us know what went wrong so that we can assist you accordingly. ^SH"
+  },
+  {
+    "inbound_tweet_id": 26961,
+    "customer_handle": "@121901",
+    "customer_text": "@AmazonHelp Not yet, have tried to contact the seller several times and no response. Not got access to a laptop to further the complaint at the moment",
+    "created_at": "Wed Nov 01 10:02:20 +0000 2017",
+    "in_response_to_tweet_id": 26960.0,
+    "response_tweet_id": "26963",
+    "agent_reply_id": 26963,
+    "agent_reply_text": "@121901 We want to help out! So when you have the ability to contact us, here's a link to reach out: https://t.co/JzP7hlA23B ^MJ"
+  },
+  {
+    "inbound_tweet_id": 26964,
+    "customer_handle": "@121901",
+    "customer_text": "@AmazonHelp Thanks so much. I love using Amazon but it's a pain when 3rd parties let it down. Will be in touch :)",
+    "created_at": "Wed Nov 01 10:22:47 +0000 2017",
+    "in_response_to_tweet_id": 26963.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26965,
+    "customer_handle": "@121901",
+    "customer_text": "@AmazonHelp I was able to access that link on my phone so have emailed. Thanks so much \u2764\ufe0f",
+    "created_at": "Wed Nov 01 10:36:24 +0000 2017",
+    "in_response_to_tweet_id": 26963.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 26967,
+    "customer_handle": "@121902",
+    "customer_text": "@AmazonHelp still no response. Great going guys",
+    "created_at": "Wed Nov 01 09:41:03 +0000 2017",
+    "in_response_to_tweet_id": 26968.0,
+    "response_tweet_id": "26966",
+    "agent_reply_id": 26966,
+    "agent_reply_text": "@121902 Could you confirm sharing your details in the link shared earlier? ^GK"
+  },
+  {
+    "inbound_tweet_id": 26971,
+    "customer_handle": "@121902",
+    "customer_text": "@AmazonHelp tried but it's not happening. This is what is service level. When someone asking for call back you guys showing different way",
+    "created_at": "Mon Oct 30 05:58:25 +0000 2017",
+    "in_response_to_tweet_id": 26973.0,
+    "response_tweet_id": "26968,26972",
+    "agent_reply_id": 26968,
+    "agent_reply_text": "@121902 Could you please let us know what went wrong while trying to reach us? (2/2)^HR"
+  },
+  {
+    "inbound_tweet_id": 26975,
+    "customer_handle": "@121902",
+    "customer_text": "@AmazonHelp can someone from your team call me.",
+    "created_at": "Mon Oct 30 05:51:56 +0000 2017",
+    "in_response_to_tweet_id": 26976.0,
+    "response_tweet_id": "26973",
+    "agent_reply_id": 26973,
+    "agent_reply_text": "@121902 You may reach out to our support team via phone/chat/email here: https://t.co/2t6DQoUmNZ. ^MM"
+  },
+  {
+    "inbound_tweet_id": 26977,
+    "customer_handle": "@121902",
+    "customer_text": "@AmazonHelp true, if not then why should I tweet. You guys are just making us fool",
+    "created_at": "Mon Oct 30 03:57:01 +0000 2017",
+    "in_response_to_tweet_id": 26978.0,
+    "response_tweet_id": "26976",
+    "agent_reply_id": 26976,
+    "agent_reply_text": "@121902 I understand you're upset. Please do let us know what went wrong, we'd like to assist you. ^EM"
+  },
+  {
+    "inbound_tweet_id": 27342,
+    "customer_handle": "@121987",
+    "customer_text": "@AmazonHelp I have spoken to your customer service - couldn't help as not part of tickets side.",
+    "created_at": "Wed Nov 01 10:33:30 +0000 2017",
+    "in_response_to_tweet_id": 27341.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27345,
+    "customer_handle": "@121988",
+    "customer_text": "@AmazonHelp @1711 @1712 what is this shit? Trying to get Brighton https://t.co/Nk3I0gHT2Y",
+    "created_at": "Wed Nov 01 10:11:32 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "27344,27346",
+    "agent_reply_id": 27344,
+    "agent_reply_text": "@121988 Please reach out here so we can check this for you https://t.co/0MUpC432zn  ^KM"
+  },
+  {
+    "inbound_tweet_id": 27348,
+    "customer_handle": "@121989",
+    "customer_text": "@AmazonHelp I've tried emailing you and requesting a call back!",
+    "created_at": "Wed Nov 01 10:31:15 +0000 2017",
+    "in_response_to_tweet_id": 27347.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27349,
+    "customer_handle": "@121989",
+    "customer_text": "@AmazonHelp any idea when your issue will be sorted? #morrisseytickets",
+    "created_at": "Wed Nov 01 11:51:25 +0000 2017",
+    "in_response_to_tweet_id": 27347.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27352,
+    "customer_handle": "@121990",
+    "customer_text": "@AmazonHelp I was told for the past 3 days to check my local office because I shoud have the items by now",
+    "created_at": "Wed Nov 01 10:44:05 +0000 2017",
+    "in_response_to_tweet_id": 27351.0,
+    "response_tweet_id": "27354",
+    "agent_reply_id": 27354,
+    "agent_reply_text": "@121990 Could you please confirm if these items were shipped by Amazon or by a seller? You can find that here: https://t.co/Y5jpI9gRhE ^SD"
+  },
+  {
+    "inbound_tweet_id": 27355,
+    "customer_handle": "@121990",
+    "customer_text": "@AmazonHelp I believe one item was shipped by Amazon and I know one was by the seller",
+    "created_at": "Wed Nov 01 10:53:18 +0000 2017",
+    "in_response_to_tweet_id": 27354.0,
+    "response_tweet_id": "27356",
+    "agent_reply_id": 27356,
+    "agent_reply_text": "@121990 Have we missed the delivery dates given in checkout/confirmation e-mail for both orders: https://t.co/o6Xzbu6RMj ^KN"
+  },
+  {
+    "inbound_tweet_id": 27357,
+    "customer_handle": "@121990",
+    "customer_text": "@AmazonHelp Only for 1 item",
+    "created_at": "Wed Nov 01 12:26:46 +0000 2017",
+    "in_response_to_tweet_id": 27356.0,
+    "response_tweet_id": "27358",
+    "agent_reply_id": 27358,
+    "agent_reply_text": "@121990 We definitely want to get this sorted! Let's look into this in real time with you here: https://t.co/hApLpMlfHN . ^JZ"
+  },
+  {
+    "inbound_tweet_id": 27360,
+    "customer_handle": "@121991",
+    "customer_text": "@AmazonHelp I've been on hold to your help centre for 25min!!! JOKE https://t.co/1RLPKPokJl",
+    "created_at": "Wed Nov 01 10:26:33 +0000 2017",
+    "in_response_to_tweet_id": 27359.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27367,
+    "customer_handle": "@121993",
+    "customer_text": "@AmazonHelp I have, but went to purchase the tickets at 10:02 and it is now 10:35 not likely. What a rip off, pre order for pre sale that doesn't work.",
+    "created_at": "Wed Nov 01 10:36:58 +0000 2017",
+    "in_response_to_tweet_id": 27366.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27384,
+    "customer_handle": "@121998",
+    "customer_text": "@AmazonHelp I am not able to speak on the phone right now. This appears to be happening for everyone so is it not an issue on your end?",
+    "created_at": "Wed Nov 01 10:22:51 +0000 2017",
+    "in_response_to_tweet_id": 27383.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27391,
+    "customer_handle": "@122001",
+    "customer_text": "@AmazonHelp Tweeting on behalf of @122002. Had to resort to Ally Pally in panic rather than nothing. Have now used priority booking privilege. \ud83d\ude21",
+    "created_at": "Wed Nov 01 10:33:05 +0000 2017",
+    "in_response_to_tweet_id": 27390.0,
+    "response_tweet_id": "27393",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27393,
+    "customer_handle": "@122002",
+    "customer_text": "@122001 @AmazonHelp Basic ticket cost plus further to travel and park not ideal.  Seen loads have had same issue.  But hey,  at least I got something.",
+    "created_at": "Wed Nov 01 10:37:35 +0000 2017",
+    "in_response_to_tweet_id": 27391.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27397,
+    "customer_handle": "@122004",
+    "customer_text": "@AmazonHelp That's not very helpful? it seems to work with other gigs- do you just have ticketing issues with the Morrissey RAH gig?",
+    "created_at": "Wed Nov 01 10:25:52 +0000 2017",
+    "in_response_to_tweet_id": 27396.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27406,
+    "customer_handle": "@121889",
+    "customer_text": "@AmazonHelp trying to book morrissey tickets. Saying I've exceeded amount. No I haven't. Help me.",
+    "created_at": "Wed Nov 01 10:05:11 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "27405",
+    "agent_reply_id": 27405,
+    "agent_reply_text": "@121889 Sorry to hear this. Please reach out to us here: https://t.co/CJO45iBHVu and we can look into this. ^PK"
+  },
+  {
+    "inbound_tweet_id": 27408,
+    "customer_handle": "@122008",
+    "customer_text": "@AmazonHelp Your Morrissey pre sale is not working for several people. Please fix. Even 1 ticket allegedly exceeds the maximum amount",
+    "created_at": "Wed Nov 01 10:19:38 +0000 2017",
+    "in_response_to_tweet_id": 27407.0,
+    "response_tweet_id": "27411,27412",
+    "agent_reply_id": 27411,
+    "agent_reply_text": "@122008 Sorry to hear that. Please reach out here: https://t.co/LVpSYqWoj4 and we'll look into it for you. ^RS"
+  },
+  {
+    "inbound_tweet_id": 27413,
+    "customer_handle": "@122008",
+    "customer_text": "@AmazonHelp I\u2019ve reached out and got a polite automated reply. The ball is in your court.",
+    "created_at": "Wed Nov 01 10:35:18 +0000 2017",
+    "in_response_to_tweet_id": 27411.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27412,
+    "customer_handle": "@121890",
+    "customer_text": "@122008 @AmazonHelp @120474 SORT THIS OUT!!! What a con! Your RAH pre-sale hasn\u2019t worked for many. What do you have to say about it? @122009",
+    "created_at": "Wed Nov 01 10:24:00 +0000 2017",
+    "in_response_to_tweet_id": 27408.0,
+    "response_tweet_id": "27414",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27414,
+    "customer_handle": "@122009",
+    "customer_text": "@121890 @122008 @AmazonHelp @120474 Hi, there is an agency pre-sale but tickets cannot be bought directly through us until Friday.",
+    "created_at": "Wed Nov 01 10:29:50 +0000 2017",
+    "in_response_to_tweet_id": 27412.0,
+    "response_tweet_id": "27415,27416",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27415,
+    "customer_handle": "@122008",
+    "customer_text": "@122009 @121890 @AmazonHelp @120474 Thanks for the prompt reply. Hopefully AmazonTicketsUK can mend the process",
+    "created_at": "Wed Nov 01 10:31:56 +0000 2017",
+    "in_response_to_tweet_id": 27414.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27416,
+    "customer_handle": "@121890",
+    "customer_text": "@122009 @122008 @AmazonHelp @120474 Yes....the agency pre-sale doesn\u2019t appear to be working and they\u2019ve all gone quiet with no assistance at all #mozarmy #morrissey",
+    "created_at": "Wed Nov 01 10:31:02 +0000 2017",
+    "in_response_to_tweet_id": 27414.0,
+    "response_tweet_id": "27417",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27417,
+    "customer_handle": "@120474",
+    "customer_text": "@121890 @122008 @AmazonHelp Hi - We\u2019re working to reopen the ticket pre-sale as soon as possible, and will be in touch shortly.",
+    "created_at": "Wed Nov 01 10:43:48 +0000 2017",
+    "in_response_to_tweet_id": 27416.0,
+    "response_tweet_id": "27418",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27418,
+    "customer_handle": "@122008",
+    "customer_text": "@120474 @121890 @AmazonHelp Thanks for responding swiftly. Good luck finding the problem",
+    "created_at": "Wed Nov 01 10:51:46 +0000 2017",
+    "in_response_to_tweet_id": 27417.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27409,
+    "customer_handle": "@122008",
+    "customer_text": "@AmazonHelp I have responded to your email. I need a quicker resolution than \u201cwithin 12 hours\u201d",
+    "created_at": "Wed Nov 01 10:20:23 +0000 2017",
+    "in_response_to_tweet_id": 27407.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27420,
+    "customer_handle": "@122010",
+    "customer_text": "@AmazonHelp Hi we seem to be several to experience the \"exceeded\" issue for Brighton &amp; London for Morrissey",
+    "created_at": "Wed Nov 01 10:30:42 +0000 2017",
+    "in_response_to_tweet_id": 27419.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27423,
+    "customer_handle": "@121889",
+    "customer_text": "@AmazonHelp  https://t.co/ri28t8nwFD",
+    "created_at": "Wed Nov 01 10:17:49 +0000 2017",
+    "in_response_to_tweet_id": 27422.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27426,
+    "customer_handle": "@122011",
+    "customer_text": "@AmazonHelp can't find a help option for amazon tickets",
+    "created_at": "Wed Nov 01 10:35:41 +0000 2017",
+    "in_response_to_tweet_id": 27425.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27429,
+    "customer_handle": "@121889",
+    "customer_text": "@AmazonHelp I've been on hold to your phone line for nearly ten minutes what will this do? Why can't we book morrissey tickets in Brighton??!!",
+    "created_at": "Wed Nov 01 10:15:12 +0000 2017",
+    "in_response_to_tweet_id": 27428.0,
+    "response_tweet_id": "27431",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27431,
+    "customer_handle": "@122012",
+    "customer_text": "@121889 @AmazonHelp Any answer, I still can\u2019t book",
+    "created_at": "Wed Nov 01 10:22:08 +0000 2017",
+    "in_response_to_tweet_id": 27429.0,
+    "response_tweet_id": "27432",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27432,
+    "customer_handle": "@121889",
+    "customer_text": "@122012 @AmazonHelp It's a technical issue that everyone is getting. They said they'll phone me back when it's sorted but can't t give me a time!",
+    "created_at": "Wed Nov 01 10:23:59 +0000 2017",
+    "in_response_to_tweet_id": 27431.0,
+    "response_tweet_id": "27433",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27433,
+    "customer_handle": "@122012",
+    "customer_text": "@121889 @AmazonHelp God, so we\u2019re stuck clicking hopefully that it will be fixed! It\u2019s like bloody Glastonbury tickets!",
+    "created_at": "Wed Nov 01 10:27:02 +0000 2017",
+    "in_response_to_tweet_id": 27432.0,
+    "response_tweet_id": "27434",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27434,
+    "customer_handle": "@121889",
+    "customer_text": "@122012 @AmazonHelp Pretty much. It's shocking. First and last time using amazon tickets.",
+    "created_at": "Wed Nov 01 10:28:43 +0000 2017",
+    "in_response_to_tweet_id": 27433.0,
+    "response_tweet_id": "27435",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27435,
+    "customer_handle": "@122012",
+    "customer_text": "@121889 @AmazonHelp Given up and bought Ally Pally tickets.",
+    "created_at": "Wed Nov 01 10:51:43 +0000 2017",
+    "in_response_to_tweet_id": 27434.0,
+    "response_tweet_id": "27436",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 27436,
+    "customer_handle": "@121889",
+    "customer_text": "@122012 @AmazonHelp Not an option for me so I'll have to wait it out. \ud83d\ude15\ud83d\ude15\ud83d\ude15 nice one though.",
+    "created_at": "Wed Nov 01 10:54:04 +0000 2017",
+    "in_response_to_tweet_id": 27435.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 38553,
+    "customer_handle": "@124405",
+    "customer_text": "@AmazonHelp Si, linee guida rispettate in entrambe le recensioni. Si vede che la foto \u00e8 troppo scomoda.",
+    "created_at": "Wed Nov 22 19:41:03 +0000 2017",
+    "in_response_to_tweet_id": 38552.0,
+    "response_tweet_id": "38555",
+    "agent_reply_id": 38555,
+    "agent_reply_text": "@124405 Alex mi spiace per l'inconveniente. Il nostro Servizio Clienti resta a tua disposizione! A presto! ^RP"
+  },
+  {
+    "inbound_tweet_id": 38557,
+    "customer_handle": "@124406",
+    "customer_text": "@AmazonHelp Oui assez :) En tout cas j'attends le black friday avec impatience. Faites moi plaisir ;)",
+    "created_at": "Wed Nov 22 19:38:04 +0000 2017",
+    "in_response_to_tweet_id": 38556.0,
+    "response_tweet_id": "38559",
+    "agent_reply_id": 38559,
+    "agent_reply_text": "@124406 Restez connect\u00e9 alors \ud83d\ude09 ^MA"
+  },
+  {
+    "inbound_tweet_id": 38558,
+    "customer_handle": "@124406",
+    "customer_text": "@AmazonHelp Si j\u2019ai plusieurs id\u00e9es mais mon choix principal c\u2019est la Gear S3 \ud83d\ude0b",
+    "created_at": "Wed Nov 22 19:14:35 +0000 2017",
+    "in_response_to_tweet_id": 38560.0,
+    "response_tweet_id": "38556",
+    "agent_reply_id": 38556,
+    "agent_reply_text": "@124406 Je vois que vous \u00eates un passionn\u00e9 des nouvelles technologies \ud83d\ude0e ^MA"
+  },
+  {
+    "inbound_tweet_id": 38561,
+    "customer_handle": "@124406",
+    "customer_text": "@AmazonHelp J\u2019esp\u00e8re bien haha",
+    "created_at": "Wed Nov 22 18:48:37 +0000 2017",
+    "in_response_to_tweet_id": 38562.0,
+    "response_tweet_id": "38560",
+    "agent_reply_id": 38560,
+    "agent_reply_text": "@124406 C'est tout ce que votre liste de No\u00ebl contient cette ann\u00e9e ? \ud83d\ude1c ^MA"
+  },
+  {
+    "inbound_tweet_id": 38565,
+    "customer_handle": "@124407",
+    "customer_text": "@AmazonHelp Amazon UK",
+    "created_at": "Wed Nov 22 19:32:32 +0000 2017",
+    "in_response_to_tweet_id": 38564.0,
+    "response_tweet_id": "38567",
+    "agent_reply_id": 38567,
+    "agent_reply_text": "@124407 What is the most recent delivery estimate shown: https://t.co/BQmcNXViiI? ^SJ"
+  },
+  {
+    "inbound_tweet_id": 38568,
+    "customer_handle": "@124407",
+    "customer_text": "@AmazonHelp It was supposed to be delivered today and now it's saying rescheduled due to customer request. And I have not request anything",
+    "created_at": "Wed Nov 22 19:38:20 +0000 2017",
+    "in_response_to_tweet_id": 38567.0,
+    "response_tweet_id": "38569",
+    "agent_reply_id": 38569,
+    "agent_reply_text": "@124407 Thanks for the update; has the order already been dispatched? ^GS"
+  },
+  {
+    "inbound_tweet_id": 38570,
+    "customer_handle": "@124407",
+    "customer_text": "@AmazonHelp Yes",
+    "created_at": "Wed Nov 22 19:45:33 +0000 2017",
+    "in_response_to_tweet_id": 38569.0,
+    "response_tweet_id": "38571",
+    "agent_reply_id": 38571,
+    "agent_reply_text": "@124407 We'd like to look into this with you. When you have a moment, please contact us by phone or chat here: https://t.co/qy3J24VGxb ^AC"
+  },
+  {
+    "inbound_tweet_id": 38566,
+    "customer_handle": "@124407",
+    "customer_text": "@AmazonHelp Order has been delayed multiple times",
+    "created_at": "Wed Nov 22 19:28:30 +0000 2017",
+    "in_response_to_tweet_id": 38572.0,
+    "response_tweet_id": "38564",
+    "agent_reply_id": 38564,
+    "agent_reply_text": "@124407 Oh no! I'm so sorry for any inconvenience that may have caused. Just to confirm, which Amazon site did you use to place your order (https://t.co/nUUp5MLhYl, https://t.co/ykTUEmdsQA, Amazon.es, etc.)? We'd like to help in any way we can! ^BL"
+  },
+  {
+    "inbound_tweet_id": 38572,
+    "customer_handle": "@124407",
+    "customer_text": "@AmazonHelp Yes",
+    "created_at": "Wed Nov 22 19:28:04 +0000 2017",
+    "in_response_to_tweet_id": 38573.0,
+    "response_tweet_id": "38566",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 38574,
+    "customer_handle": "@124407",
+    "customer_text": "@AmazonHelp hey I need someone to solve my issue.",
+    "created_at": "Wed Nov 22 19:06:55 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "38573",
+    "agent_reply_id": 38573,
+    "agent_reply_text": "@124407 Hi Sameer! We're here to help! Is this a current issue you're experiencing? ^WT"
+  },
+  {
+    "inbound_tweet_id": 38796,
+    "customer_handle": "@124278",
+    "customer_text": "@AmazonHelp If u want to connect with me ..I share my mobile in DM .Whts d need of the form.I already told my concern.In tht form mentioned as 24 hrs",
+    "created_at": "Wed Nov 01 15:11:18 +0000 2017",
+    "in_response_to_tweet_id": 38795.0,
+    "response_tweet_id": "38797",
+    "agent_reply_id": 38797,
+    "agent_reply_text": "@124278 I'm sorry but as we're on Twitter, we won't be able to take any action. Please use the link to send us your details. ^AM"
+  },
+  {
+    "inbound_tweet_id": 38799,
+    "customer_handle": "@124466",
+    "customer_text": "@AmazonHelp No reply to my last tweet. Thank you for replying now tho :) https://t.co/fYVeqY9Quq",
+    "created_at": "Wed Nov 01 14:58:46 +0000 2017",
+    "in_response_to_tweet_id": 38798.0,
+    "response_tweet_id": "38801",
+    "agent_reply_id": 38801,
+    "agent_reply_text": "@124466 We don't have that information, but we\u2019re working hard on an app for AppleTV, and expect it to launch later this year! ^FR"
+  },
+  {
+    "inbound_tweet_id": 38803,
+    "customer_handle": "@124467",
+    "customer_text": "@AmazonHelp Thanks! Yep, I checked there, and the books I checked out through OverDrive are not listed there (even though the last two I did are).",
+    "created_at": "Wed Nov 01 14:56:36 +0000 2017",
+    "in_response_to_tweet_id": 38802.0,
+    "response_tweet_id": "38805",
+    "agent_reply_id": 38805,
+    "agent_reply_text": "@124467 I'd recommend walking through these steps: https://t.co/6JszbxM6ST ^AF"
+  },
+  {
+    "inbound_tweet_id": 38807,
+    "customer_handle": "@124468",
+    "customer_text": "@AmazonHelp Anyone out there",
+    "created_at": "Wed Nov 01 14:46:31 +0000 2017",
+    "in_response_to_tweet_id": 38808.0,
+    "response_tweet_id": "38806",
+    "agent_reply_id": 38806,
+    "agent_reply_text": "@124468 This may be helpful: https://t.co/Tx9woJ1OSE\n\nIf this doesn't help to answer, reach us phone/chat: https://t.co/JzP7hlA23B ^KN"
+  },
+  {
+    "inbound_tweet_id": 38808,
+    "customer_handle": "@124468",
+    "customer_text": "@AmazonHelp I\u2019m requested a courier pick up a package to return it yesterday and nobody\u2019s turned up to pick it up yet",
+    "created_at": "Tue Oct 31 20:19:47 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "38807",
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 38810,
+    "customer_handle": "@122363",
+    "customer_text": "@AmazonHelp I keep chasing u guys and finally ur reply https://t.co/wgHLRIVchr",
+    "created_at": "Wed Nov 01 22:13:21 +0000 2017",
+    "in_response_to_tweet_id": 38809.0,
+    "response_tweet_id": "38812,38813",
+    "agent_reply_id": 38812,
+    "agent_reply_text": "@122363 Please don't provide your order details as we consider it personal information. Our twitter page is visible to public. (2/2)^SQ"
+  },
+  {
+    "inbound_tweet_id": 38815,
+    "customer_handle": "@120265",
+    "customer_text": "@AmazonHelp contact me 9897327895",
+    "created_at": "Wed Nov 01 14:39:26 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "38814,38816,38817",
+    "agent_reply_id": 38814,
+    "agent_reply_text": "@120265 Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public.^KS 3/3"
+  },
+  {
+    "inbound_tweet_id": 38819,
+    "customer_handle": "@124469",
+    "customer_text": "@AmazonHelp Buenos d\u00edas.  Hace unos d\u00edas encargue dos de estos productos https://t.co/vERnPL9zOk y uno de los marcadores no sirve, est\u00e1 seco",
+    "created_at": "Wed Nov 01 14:46:31 +0000 2017",
+    "in_response_to_tweet_id": null,
+    "response_tweet_id": "38818",
+    "agent_reply_id": 38818,
+    "agent_reply_text": "@124469 Hola Ana, lamento lo sucedido. Puedes verificar las opciones disponibles en este enlace: https://t.co/pEJFH3UWz5. ^LG"
+  },
+  {
+    "inbound_tweet_id": 38821,
+    "customer_handle": "@120932",
+    "customer_text": "@AmazonHelp Hi, still awaiting the refund. It shows we will initiate the refund once we receive the item. In 15 days, the charger could reach anywhere on the globe. Don't know how did the seller didn't receive it yet. Please check.",
+    "created_at": "Thu Nov 16 18:00:00 +0000 2017",
+    "in_response_to_tweet_id": 38820.0,
+    "response_tweet_id": "38822",
+    "agent_reply_id": 38822,
+    "agent_reply_text": "@120932 I\u2019m extremely sorry about this experience, Vrushank. I'd like to take a closer look into this. Please share your details here: https://t.co/GIJyeYqKE0 and I'll get in touch with you.  ^MK"
+  },
+  {
+    "inbound_tweet_id": 22576,
+    "customer_handle": "@120932",
+    "customer_text": "@AmazonHelp @115850 Thanks for the prompt response. Props to Bikram from Amazon. Reinstated my faith in @115850",
+    "created_at": "Wed Nov 01 14:33:47 +0000 2017",
+    "in_response_to_tweet_id": 22574.0,
+    "response_tweet_id": "38820",
+    "agent_reply_id": 38820,
+    "agent_reply_text": "@120932 It's always our pleasure to make you smile. We shall be closing the concern at the earliest. We value your time. ^CB"
+  },
+  {
+    "inbound_tweet_id": 38827,
+    "customer_handle": "@124471",
+    "customer_text": "@AmazonHelp Yes shipped yesterday",
+    "created_at": "Wed Nov 01 14:55:54 +0000 2017",
+    "in_response_to_tweet_id": 38826.0,
+    "response_tweet_id": "38829",
+    "agent_reply_id": 38829,
+    "agent_reply_text": "@124471 Thanks for confirming. We'd like to look into it. Write to us here: https://t.co/beaaDm0muc and we'll contact you soon. ^MO"
+  },
+  {
+    "inbound_tweet_id": 38830,
+    "customer_handle": "@124471",
+    "customer_text": "@AmazonHelp done.",
+    "created_at": "Wed Nov 01 15:49:36 +0000 2017",
+    "in_response_to_tweet_id": 38829.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 38831,
+    "customer_handle": "@124471",
+    "customer_text": "@AmazonHelp let me know please. My Prime has been  disrupted because of a delay by you.",
+    "created_at": "Thu Nov 02 02:36:41 +0000 2017",
+    "in_response_to_tweet_id": 38829.0,
+    "response_tweet_id": "38832",
+    "agent_reply_id": 38832,
+    "agent_reply_text": "@124471 We've sent the correspondence to your registered email ID. Kindly check it here: https://t.co/8DAc10S7ww ^GK"
+  },
+  {
+    "inbound_tweet_id": 38837,
+    "customer_handle": "@124473",
+    "customer_text": "@AmazonHelp No, just said \"running behind\". All our ordered food has been vegan, worst has been soft ice cream but people ordering meat could get sick.",
+    "created_at": "Wed Nov 01 14:50:55 +0000 2017",
+    "in_response_to_tweet_id": 38836.0,
+    "response_tweet_id": null,
+    "agent_reply_id": null,
+    "agent_reply_text": null
+  },
+  {
+    "inbound_tweet_id": 38851,
+    "customer_handle": "@124478",
+    "customer_text": "@AmazonHelp I have already fill this form... no updates",
+    "created_at": "Wed Nov 01 14:54:47 +0000 2017",
+    "in_response_to_tweet_id": 38850.0,
+    "response_tweet_id": "38853",
+    "agent_reply_id": 38853,
+    "agent_reply_text": "@124478 We've not received your details yet, Lokesh. Please fill in your details via the link provided to better assist you. ^KS"
+  }
+]

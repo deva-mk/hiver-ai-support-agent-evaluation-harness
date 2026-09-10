@@ -1,0 +1,6 @@
+{
+  "name": "Hiver AI Support Agent & Evaluation Harness",
+  "description": "Production AI customer support pipeline for @AmazonHelp trained on Twitter support dataset with intent classification, grounded reply drafting, human escalation routing, and a 200-sample golden evaluation harness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

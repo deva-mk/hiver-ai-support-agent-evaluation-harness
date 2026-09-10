@@ -1,0 +1,45 @@
+{
+  "evaluated_at": "2026-09-10T14:24:10.712Z",
+  "dataset_provenance": "200 manually annotated real Kaggle TWCS @AmazonHelp tweets",
+  "sample_size": 200,
+  "ground_truth_escalations": 30,
+  "ground_truth_auto_handles": 170,
+  "models": [
+    {
+      "name": "Trivial Baseline",
+      "type": "Trivial Baseline",
+      "intent_accuracy": 0.675,
+      "intent_macro_f1": 0.115,
+      "escalation_accuracy": 0.85,
+      "false_auto_handle_rate": 1,
+      "false_escalation_rate": 0,
+      "avg_judge_score": 2.15,
+      "policy_compliance_rate": 0.35,
+      "avg_latency_ms": 12
+    },
+    {
+      "name": "Simple Keyword Baseline",
+      "type": "Simple Keyword Baseline",
+      "intent_accuracy": 0.27,
+      "intent_macro_f1": 0.316,
+      "escalation_accuracy": 0.845,
+      "false_auto_handle_rate": 0.9,
+      "false_escalation_rate": 0.024,
+      "avg_judge_score": 3.38,
+      "policy_compliance_rate": 0.69,
+      "avg_latency_ms": 45
+    },
+    {
+      "name": "Proposed Production Agent",
+      "type": "Proposed Production Agent",
+      "intent_accuracy": 0.915,
+      "intent_macro_f1": 0.834,
+      "escalation_accuracy": 0.935,
+      "false_auto_handle_rate": 0.133,
+      "false_escalation_rate": 0.053,
+      "avg_judge_score": 4.68,
+      "policy_compliance_rate": 0.985,
+      "avg_latency_ms": 1080
+    }
+  ]
+}
